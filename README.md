@@ -26,16 +26,16 @@ https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset?
 *Can we predict a 2022 FIFA World Cup winner based on FIFA rankings, historical matches, and FIFA videogame player attributes with machine learning?*
 
 ## Tools (DRAFT)
-Database: Postgres
-Database Engine: SQLAlchemy
+Database: 
+Database Engine: 
 
-Exploratory Data Analysis: Jupyter Notebook?
+Exploratory Data Analysis: 
 
-Cleaning: Jupyter Notebook?
+Cleaning: 
 
-Linear Regression: RStudio?
+Linear Regression: 
 
-Machine Learning: Jupyter Notebook?
+Machine Learning: 
 
 ## Languages
 
@@ -44,25 +44,7 @@ TBD
 
 
 
-## DATABASE
-Database Host: Postgres
 
-Database Engine: SQLAlchemy
-
-**Deliverable 1:**
-
-1. Provisional ERD was created
-
-![erd_snapshot](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess1/Database/db_erd_snapshot.png)
-
-
-2. Database was created in Postgres
-
-![db_screenshot](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess1/Database/db_screenshot.png)
-
-3. Using Python in Jupyter Notebook, provisional datasets were loaded, then imported to Postgres using SQLAlechemy
-
-File found **[here](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess1/load_dataset_to_postgres.ipynb)**.
 
 
 ## Links to Reference for our Knowledge
