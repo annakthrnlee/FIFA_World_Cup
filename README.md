@@ -35,13 +35,12 @@ Multiple questions will need to be addressed before training the model. First, I
 
 I've dropped all columns that serve no purpose and set aside a portion of our dataset to evaluate my model. Please see Revised_International_Matches.csv
 
-Now, I need to decide which factors are best for training my model to fit our predictions. When determining what team is most likely to win, you would probably want to know the best and worst teams. The dataset we chose, however, dates all the way back to the start of the tournament in 1930. Thus, I decided to delete all of the years ranging between 1930-2000. My model will now only predict the scoring of games from the past 22 years (2000-01-01 --> 2022-08-28) 
+Now, I need to decide which factors are best for training my model to fit our predictions. When determining what team is most likely to win, you would probably want to know the best and worst teams. The dataset we chose, however, dates back to the start of the tournament in 1930. Thus, I decided to delete all of the years ranging from 1930-2000. My model will now only predict the scoring of games from the past 22 years (2000-01-01 --> 2022-08-28) 
 
-Next, I created two new df that assort the rankings of home and away teams. This provides the model with the ability to display the worst from the best teams over a 22 year period for both home and away games for each team. 
+Next, I created two new df that assort the rankings of home and away teams. This provides the model with the ability to display the worst from the best teams over 22 years for both home and away games for each team. 
 
 - What is the model's accuracy?
 
 - How does this model work?
-
 
 #### Database Integration: ⏺ (Bess's week 1 branch 'bess1') 
