@@ -33,7 +33,9 @@ Thus, our machine learning model will learn from our given datasets and classify
 
 Multiple questions will need to be addressed before training the model. First, I'll need to look over both datasets and decide which columns (categories) are most fit to help predict my final goal outcome. The first dataset (International_Matches.csv) has 25 columns, however, 8 columns appear empty so I will first delete the unnecessary values because they serve no true purpose in my results. I will evaluate the remaining columns and decide which will be necessary for the model's final predictions and which can be set aside. 
 
-I have dropped all columns that serve no purpose and set aside a portion of our dataset to evaluate my model. Please see Revised_International_Matches.csv
+I've dropped all columns that serve no purpose and set aside a portion of our dataset to evaluate my model. Please see Revised_International_Matches.csv
+
+Now, I need to decide which factors are best for training my model to fit our predictions. When determining what team is most likely to win, you would probably want to know the best and worst teams. The dataset we chose, however, dates all the way back to the start of the tournament in 1930. Thus, I decided to delete all of the years ranging between 1930-1990. My model will now only predict the scoring of games from the past 32 years. 
 
 - What is the model's accuracy?
 
