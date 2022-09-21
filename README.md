@@ -3,7 +3,7 @@
 ### First Segment: Sketch It Out 
 #### My Roles:
 - 🔼 Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps.
-- ⏹ Square: The team member in the square role will be responsible for the repository.
+- ⏹ Square: The team member in the square role will be responsible for the repository. I plan on updating and creating the 'main' READ.ME as we progress each week, for simplicity reasons. 
 
 ### Rubric For This Week:
 
