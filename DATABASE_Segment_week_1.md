@@ -23,7 +23,7 @@ File found **[here](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess1/lo
 
 ![SQL_queries](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess1/Database/SQL_queries.png)
 
-5. The data will be connected to the machine learning module through a Jupyter Notebook using Python.
+5. The data will be connected to the machine learning module through a Jupyter Notebook using Python and SQLAlchemy. We will use the pd.read_sql_query function and pull datasets into dataframes for processing.
 
 ### Dataset Sources
 *[Matches and FIFA Rankings](
@@ -33,4 +33,14 @@ https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022)*
 *[FIFA Videogame Players](
 https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset?select=players_22.csv)*
 
-*A Teams references table was created taking two columns from FIFA Videogame Players and pasting it into a blank csv.*
+*A Teams references table was created taking two columns from FIFA Videogame Players and pasting it into a blank csv. This is unecessary for final project and will change for next week.*
+
+**To Do for Segment 2 (Database)**
+
+1. Finalize datasets.
+2. Update ERD to reflect finalized dataset.
+3. Finalize load of datasets into Postgres.
+4. Use SQL to join tables into one table.
+5. Connect Postgres tables to machine learning model using Python "pd.read_sql_query".
+6. Update screenshots and snapshots on GitHub.
+7. Update Week 2 Database md file.
