@@ -23,6 +23,8 @@ File found **[here](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess1/lo
 
 ![SQL_queries](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess1/Database/SQL_queries.png)
 
+5. The data will be connected to the machine learning module through a Jupyter Notebook using Python.
+
 ### Dataset Sources
 *[Matches and FIFA Rankings](
 https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022)*
