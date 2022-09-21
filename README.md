@@ -1,5 +1,5 @@
 # FIFA_World_Cup
-# Reminder: This is NOT the final READ.ME it's simply a guide for each weeks goals. Once finished, we will create a NEW final READ.ME that summarizes all individual READ.MEs the group has created from each week. 
+### Reminder: This is NOT the final READ.ME it's simply a guide for each weeks goals. Once finished, we will create a NEW final READ.ME that summarizes all individual READ.MEs the group has created from each week. 
 
 ### Project Goals (ROAD MAP): Reminder as we move forward each week
 
