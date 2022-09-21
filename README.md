@@ -1,4 +1,5 @@
 # FIFA_World_Cup
+# Reminder: This is NOT the final READ.ME it's simply a guide for each weeks goals. Once finished, we will create a NEW final READ.ME that summarizes all individual READ.MEs the group has created from each week. 
 
 ### Project Goals (ROAD MAP): Reminder as we move forward each week
 
@@ -37,7 +38,7 @@
 
 - How does this model work?
 
-#### Mockup Database SQL: ⏺
+#### Database Integration: ⏺
 - Create a mockup database and a document pointing out how it is integrated into your database and how it works with the code.
 
 #### Technologies Integrated Throughout Project: X 
@@ -46,3 +47,45 @@
 - What technologies will be used for each section? 
 
 - How will the dashboard be built?
+
+### Rubric For This Week: WEEK 2
+
+#### GitHub Repository ⏹
+- All code in the main branch is production-ready.
+
+- All code necessary to perform exploratory analysis
+
+- Some code necessary to complete the machine learning portion of project
+
+- Everyones branches have a summarized READ.ME of this weeks steps (plus 4 commits)
+
+#### Machine Learning Model: 🔼
+- Description of preliminary data preprocessing
+
+- Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+
+- Description of how data was split into training and testing sets
+
+- Explanation of model choice, including limitations and benefits
+
+#### Database Integration: ⏺
+- Database stores static data for use during the project
+
+- Database interfaces with the project in some format (e.g., scraping updates the database)
+
+- Includes at least two tables (or collections, if using MongoDB)
+
+- Includes at least one join using the database language (not including any joins in Pandas)
+
+- Includes at least one connection string (using SQLAlchemy or PyMongo)
+
+#### Dashboard: X 
+- Storyboard on a Google Slide(s)
+
+- Description of the tool(s) that will be used to create the final dashboard
+
+- Description of interactive element(s)
+
+#### Team: 
+- Continue with analysis: add, commit, push, create new branches as needed, and utilize GitHub's built-in tools, such as PRs, to review the work you and your teammates have completed (this is an ongoing process, so keep it up!).
+
