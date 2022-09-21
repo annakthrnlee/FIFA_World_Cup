@@ -1,7 +1,7 @@
 # FIFA_World_Cup
 ### Reminder: This is NOT the final READ.ME it's simply a guide for each weeks goals. Once finished, we will create a NEW final READ.ME that summarizes all individual READ.MEs the group has created from each week. 
 
-### Project Goals (ROAD MAP): Reminder as we move forward each week
+### Project Goals (ROAD MAP):
 
 - First Segment: Sketch It Out: Decide on your overall project, select your question, and build a simple model. You'll connect the model to a fabricated database, using comma-separated values (CSV) or JavaScript Object Notation (JSON) files, to prototype your idea.
 
