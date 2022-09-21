@@ -10,6 +10,8 @@
 #### GitHub Repository ⏹
 - Description of the communication protocols: 
 
+I added this portion to the 'main' READ.ME. I plan on adding a portion for each week so all group members understand their tasks for each week. This will keep things organized, as everyone will create a new branch each week and add a READ.ME to explain what steps were taken to advance to our finished goal. Once we have completed all steps, I will create a new final READ.ME to establish/summarize all required attributes of the project and our processes. 
+
 - At least one branch for each team member: (still waiting for Stephanee to add her section). I'm taking over Emma's portion since she's out of town this week but she will still need to create her branchs per instructions. 
 
 - Each team member has at least four commits for the duration of the first segment: 
