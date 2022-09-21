@@ -41,5 +41,3 @@ Next, I decided which columns would be most interesting to compare with potentia
 - What is the model's accuracy?
 
 - How does this model work?
-
-#### Database Integration: ⏺ (Bess's week 1 branch 'bess1') 
