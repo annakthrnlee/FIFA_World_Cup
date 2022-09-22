@@ -1,0 +1,760 @@
+﻿,sofifa_id,short_name,long_name,age,dob,height_cm,weight_kg,nationality_name,nation_team_id,preferred_foot,body_type,player_traits
+0,158023,L. Messi,Lionel Andrés Messi Cuccittini,34,6/24/87,170,72,Argentina,1369.0,Left,Unique,"Finesse Shot, Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot, One Club Player, Chip Shot (AI), Technical Dribbler (AI)"
+1,188545,R. Lewandowski,Robert Lewandowski,32,8/21/88,185,81,Poland,1353.0,Right,Unique,"Solid Player, Finesse Shot, Outside Foot Shot, Chip Shot (AI)"
+2,20801,Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,36,2/5/85,187,83,Portugal,1354.0,Right,Unique,"Power Free-Kick, Flair, Long Shot Taker (AI), Speed Dribbler (AI), Outside Foot Shot"
+4,192985,K. De Bruyne,Kevin De Bruyne,30,6/28/91,181,70,Belgium,1325.0,Right,Unique,"Injury Prone, Leadership, Early Crosser, Long Passer (AI), Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot"
+6,231747,K. Mbappé,Kylian Mbappé Lottin,22,12/20/98,182,73,France,1335.0,Right,Unique,"Flair, Speed Dribbler (AI), Outside Foot Shot, Technical Dribbler (AI)"
+7,167495,M. Neuer,Manuel Peter Neuer,35,3/27/86,193,93,Germany,1337.0,Right,Unique,"Leadership, GK Long Throw, Rushes Out Of Goal, Comes For Crosses"
+9,202126,H. Kane,Harry Kane,27,7/28/93,188,89,England,1318.0,Right,Unique,"Leadership, Long Passer (AI), Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot"
+10,215914,N. Kanté,N'Golo Kanté,30,3/29/91,168,70,France,1335.0,Right,Unique,Leadership
+11,165153,K. Benzema,Karim Benzema,33,12/19/87,185,81,France,1335.0,Right,Normal (170-185),"Leadership, Finesse Shot, Playmaker (AI), Outside Foot Shot, Team Player"
+12,192119,T. Courtois,Thibaut Courtois,29,5/11/92,199,96,Belgium,1325.0,Left,Unique,"GK Long Throw, Comes For Crosses"
+15,203376,V. van Dijk,Virgil van Dijk,29,7/8/91,193,92,Netherlands,105035.0,Right,Unique,"Leadership, Long Passer (AI), Power Header"
+19,212622,J. Kimmich,Joshua Walter Kimmich,26,2/8/95,177,75,Germany,1337.0,Right,Lean (170-185),"Leadership, Long Passer (AI), Playmaker (AI)"
+21,230621,G. Donnarumma,Gianluigi Donnarumma,22,2/25/99,196,90,Italy,1343.0,Right,Unique,"Rushes Out Of Goal, Comes For Crosses"
+22,155862,Sergio Ramos,Sergio Ramos García,35,3/30/86,184,82,Spain,1362.0,Right,Unique,"Injury Prone, Dives Into Tackles (AI), Leadership, Long Passer (AI), Power Header, Team Player"
+25,192505,R. Lukaku,Romelu Lukaku Menama,28,5/13/93,191,94,Belgium,1325.0,Left,Unique,"Speed Dribbler (AI), Power Header, Team Player"
+27,202652,R. Sterling,Raheem Sterling,26,12/8/94,170,69,England,1318.0,Right,Unique,"Flair, Speed Dribbler (AI)"
+28,212198,Bruno Fernandes,Bruno Miguel Borges Fernandes,26,9/8/94,179,69,Portugal,1354.0,Right,Unique,"Solid Player, Leadership, Flair, Long Passer (AI), Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot"
+29,239085,E. Haaland,Erling Braut Haaland,20,7/21/00,194,94,Norway,1352.0,Left,Unique,"Solid Player, Speed Dribbler (AI)"
+30,153079,S. Agüero,Sergio Leonel Agüero del Castillo,33,6/2/88,173,70,Argentina,1369.0,Right,Unique,"Injury Prone, Chip Shot (AI)"
+31,167948,H. Lloris,Hugo Lloris,34,12/26/86,188,82,France,1335.0,Left,Unique,"Leadership, Team Player, Rushes Out Of Goal"
+33,183898,Á. Di María,Ángel Fabián Di María Hernández,33,2/14/88,180,69,Argentina,1369.0,Left,Unique,"Flair, Long Shot Taker (AI), Outside Foot Shot, Chip Shot (AI), Technical Dribbler (AI)"
+34,186153,W. Szczęsny,Wojciech Tomasz Szczęsny,31,4/18/90,195,90,Poland,1353.0,Right,Lean (185+),Comes For Crosses
+36,192387,C. Immobile,Ciro Immobile,31,2/20/90,185,85,Italy,1343.0,Right,Unique,"Outside Foot Shot, Chip Shot (AI)"
+37,195864,P. Pogba,Paul Pogba,28,3/15/93,191,84,France,1335.0,Right,Unique,"Injury Prone, Flair, Long Passer (AI), Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+38,199556,M. Verratti,Marco Verratti,28,11/5/92,165,60,Italy,1343.0,Right,Unique,"Injury Prone, Dives Into Tackles (AI), Flair, Playmaker (AI), Outside Foot Shot"
+40,209658,L. Goretzka,Leon Christoph Goretzka,26,2/6/95,189,82,Germany,1337.0,Right,Unique,"Dives Into Tackles (AI), Long Shot Taker (AI)"
+41,211110,P. Dybala,Paulo Bruno Exequiel Dybala,27,11/15/93,177,75,Argentina,1369.0,Left,Unique,"Finesse Shot, Flair, Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+42,216267,A. Robertson,Andrew Robertson,27,3/11/94,178,64,Scotland,1359.0,Left,Unique,"Leadership, Early Crosser, Speed Dribbler (AI)"
+43,228702,F. de Jong,Frenkie de Jong,24,5/12/97,180,74,Netherlands,105035.0,Right,Unique,"Flair, Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+44,231281,T. Alexander-Arnold,Trent Alexander-Arnold,22,10/7/98,180,69,England,1318.0,Right,Unique,"Early Crosser, Long Passer (AI), Long Shot Taker (AI)"
+45,233049,J. Sancho,Jadon Sancho,21,3/25/00,180,76,England,1318.0,Right,Unique,"Finesse Shot, Flair, Playmaker (AI), Technical Dribbler (AI)"
+46,239818,Rúben Dias,Rúben dos Santos Gato Alves Dias,24,5/14/97,187,82,Portugal,1354.0,Right,Normal (185+),"Solid Player, Leadership, Power Header"
+47,138956,G. Chiellini,Giorgio Chiellini,36,8/14/84,187,85,Italy,1343.0,Left,Normal (185+),"Long Throw-in, Injury Prone, Dives Into Tackles (AI), Power Header, Team Player"
+50,189332,Jordi Alba,Jordi Alba Ramos,32,3/21/89,170,68,Spain,1362.0,Left,Unique,Speed Dribbler (AI)
+51,189509,Thiago,Thiago Alcântara do Nascimento,30,4/11/91,174,70,Spain,1362.0,Right,Normal (170-185),"Injury Prone, Dives Into Tackles (AI), Flair, Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+52,189511,Sergio Busquets,Sergio Busquets i Burgos,32,7/16/88,189,76,Spain,1362.0,Right,Lean (185+),"Leadership, Team Player"
+55,198219,L. Insigne,Lorenzo Insigne,30,6/4/91,163,59,Italy,1343.0,Right,Unique,"Finesse Shot, Flair, Long Shot Taker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+57,201535,R. Varane,Raphaël Varane,28,4/25/93,191,81,France,1335.0,Right,Unique,Dives Into Tackles (AI)
+59,208093,Gerard Moreno,Gerard Moreno Balagueró,29,4/7/92,180,77,Spain,1362.0,Left,Lean (170-185),"Finesse Shot, Outside Foot Shot"
+62,210514,João Cancelo,João Pedro Cavaco Cancelo,27,5/27/94,182,74,Portugal,1354.0,Right,Unique,"Long Shot Taker (AI), Technical Dribbler (AI)"
+63,212218,A. Laporte,Aymeric Laporte,27,5/27/94,191,85,Spain,1362.0,Left,Unique,Long Passer (AI)
+64,213345,K. Coman,Kingsley Junior Coman,25,6/13/96,180,76,France,1335.0,Right,Unique,"Injury Prone, Speed Dribbler (AI)"
+65,218667,Bernardo Silva,Bernardo Mota Veiga de Carvalho e Silva,26,8/10/94,173,64,Portugal,1354.0,Left,Lean (170-185),"Flair, Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+66,226161,Marcos Llorente,Marcos Llorente Moreno,26,1/30/95,184,74,Spain,1362.0,Right,Lean (170-185),Speed Dribbler (AI)
+67,231866,Rodri,Rodrigo Hernández Cascante,25,6/22/96,191,82,Spain,1362.0,Right,Normal (185+),Solid Player
+69,143076,A. Gómez,Alejandro Darío Gómez,33,2/15/88,167,68,Argentina,1369.0,Right,Normal (170-),"Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+70,163587,K. Schmeichel,Kasper Peter Schmeichel,34,11/5/86,189,89,Denmark,1331.0,Right,Stocky (185+),"Solid Player, Leadership, Team Player"
+75,183277,E. Hazard,Eden Hazard,30,1/7/91,175,74,Belgium,1325.0,Right,Unique,"Injury Prone, Finesse Shot, Flair, Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+76,184344,L. Bonucci,Leonardo Bonucci,34,5/1/87,190,85,Italy,1343.0,Right,Lean (185+),"Power Free-Kick, Solid Player, Long Passer (AI), Power Header"
+77,185122,P. Gulácsi,Péter Gulácsi,31,5/6/90,191,86,Hungary,1886.0,Right,Normal (185+),Rushes Out Of Goal
+78,186942,İ. Gündoğan,İlkay Gündoğan,30,10/24/90,180,80,Germany,1337.0,Right,Normal (170-185),"Injury Prone, Long Shot Taker (AI), Playmaker (AI), Technical Dribbler (AI)"
+80,188377,K. Walker,Kyle Walker,31,5/28/90,183,83,England,1318.0,Right,Unique,"Long Throw-in, Speed Dribbler (AI)"
+82,193747,Koke,Jorge Resurrección Merodio,29,1/8/92,176,75,Spain,1362.0,Right,Normal (170-185),"Leadership, Playmaker (AI), Team Player"
+83,194765,A. Griezmann,Antoine Griezmann,30,3/21/91,176,73,France,1335.0,Left,Unique,"Finesse Shot, Flair, Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot, Chip Shot (AI), Technical Dribbler (AI)"
+84,198176,S. de Vrij,Stefan de Vrij,29,2/5/92,189,78,Netherlands,105035.0,Right,Unique,Long Passer (AI)
+86,202556,M. Depay,Memphis Depay,27,2/13/94,176,78,Netherlands,105035.0,Right,Unique,"Flair, Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+88,205498,Jorginho,Luiz Frello Filho Jorge,29,12/20/91,180,68,Italy,1343.0,Right,Lean (170-185),Playmaker (AI)
+89,206113,S. Gnabry,Serge David Gnabry,25,7/14/95,176,77,Germany,1337.0,Right,Unique,"Injury Prone, Flair, Long Shot Taker (AI), Speed Dribbler (AI), Technical Dribbler (AI)"
+92,230142,Oyarzabal,Mikel Oyarzabal Ugarte,24,4/21/97,181,79,Spain,1362.0,Left,Lean (170-185),"Solid Player, Finesse Shot, Outside Foot Shot, Technical Dribbler (AI)"
+93,231478,L. Martínez,Lautaro Javier Martínez,23,8/22/97,174,72,Argentina,1369.0,Right,Unique,"Flair, Power Header, Technical Dribbler (AI)"
+94,231677,M. Rashford,Marcus Rashford,23,10/31/97,186,70,England,1318.0,Right,Unique,"Power Free-Kick, Flair, Long Shot Taker (AI), Speed Dribbler (AI), Team Player"
+96,235243,M. de Ligt,Matthijs de Ligt,21,8/12/99,189,89,Netherlands,105035.0,Right,Unique,"Solid Player, Power Header"
+97,41236,Z. Ibrahimović,Zlatan Ibrahimović,39,10/3/81,195,95,Sweden,1363.0,Right,Unique,"Injury Prone, Leadership, Outside Foot Shot, Technical Dribbler (AI)"
+100,175943,D. Mertens,Dries Mertens,34,5/6/87,169,61,Belgium,1325.0,Right,Unique,"Finesse Shot, Flair, Long Shot Taker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+101,181291,G. Wijnaldum,Georginio Wijnaldum,30,11/11/90,175,74,Netherlands,105035.0,Right,Unique,"Solid Player, Flair"
+102,183711,J. Henderson,Jordan Henderson,31,6/17/90,182,80,England,1318.0,Right,Normal (170-185),"Leadership, Early Crosser, Long Passer (AI), Team Player"
+104,186345,K. Trippier,Kieran Trippier,30,9/19/90,173,69,England,1318.0,Right,Normal (170-185),"Long Throw-in, Solid Player, Early Crosser"
+106,193080,De Gea,David De Gea Quintana,30,11/7/90,192,82,Spain,1362.0,Right,Unique,"Cautious With Crosses, Saves with Feet"
+107,197445,D. Alaba,David Olatukunbo Alaba,29,6/24/92,180,78,Austria,1322.0,Left,Normal (170-185),Long Shot Taker (AI)
+111,200458,L. Digne,Lucas Digne,27,7/20/93,178,74,France,1335.0,Left,Unique,"Long Throw-in, Dives Into Tackles (AI), Early Crosser"
+113,202811,E. Martínez,Damián Emiliano Martínez,28,9/2/92,195,88,Argentina,1369.0,Right,Stocky (185+),"GK Long Throw, Team Player, Comes For Crosses"
+114,203263,H. Maguire,Harry Maguire,28,3/5/93,194,100,England,1318.0,Right,Stocky (185+),"Solid Player, Leadership, Long Passer (AI), Power Header"
+116,204923,M. Sabitzer,Marcel Sabitzer,27,3/17/94,178,76,Austria,1322.0,Right,Normal (170-185),"Injury Prone, Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot"
+117,205988,L. Shaw,Luke Shaw,25,7/12/95,181,75,England,1318.0,Left,Stocky (170-185),"Injury Prone, Early Crosser, Speed Dribbler (AI)"
+118,206517,J. Grealish,Jack Grealish,25,9/10/95,180,81,England,1318.0,Right,Unique,"Flair, Playmaker (AI), Technical Dribbler (AI)"
+121,208418,Y. Carrasco,Yannick Ferreira Carrasco,27,9/4/93,185,73,Belgium,1325.0,Right,Lean (185+),"Flair, Long Shot Taker (AI), Speed Dribbler (AI)"
+124,209889,R. Guerreiro,Raphaël Adelino José Guerreiro,27,12/22/93,170,71,Portugal,1354.0,Left,Normal (170-),"Flair, Outside Foot Shot, Technical Dribbler (AI)"
+126,212188,T. Werner,Timo Werner,25,3/6/96,180,76,Germany,1337.0,Right,Unique,Speed Dribbler (AI)
+127,215698,M. Maignan,Mike Maignan,25,7/3/95,191,89,France,1335.0,Right,Normal (185+),Comes For Crosses
+129,216393,Y. Tielemans,Youri Tielemans,24,5/7/97,176,72,Belgium,1325.0,Right,Normal (170-185),"Solid Player, Long Passer (AI), Long Shot Taker (AI), Playmaker (AI)"
+132,222492,L. Sané,Leroy Aziz Sané,25,1/11/96,183,80,Germany,1337.0,Left,Unique,"Power Free-Kick, Flair, Speed Dribbler (AI)"
+133,224232,N. Barella,Nicolò Barella,24,2/7/97,172,68,Italy,1343.0,Right,Normal (170-),"Solid Player, Technical Dribbler (AI)"
+134,224334,M. Acuña,Marcos Javier Acuña,29,10/28/91,172,69,Argentina,1369.0,Left,Stocky (170-185),"Flair, Long Passer (AI), Outside Foot Shot"
+135,228941,André Silva,André Miguel Valente da Silva,25,11/6/95,185,84,Portugal,1354.0,Right,Normal (185+),Flair
+138,235790,K. Havertz,Kai Lukas Havertz,22,6/11/99,188,82,Germany,1337.0,Left,Unique,"Finesse Shot, Playmaker (AI), Outside Foot Shot, Chip Shot (AI), Technical Dribbler (AI)"
+139,237692,P. Foden,Philip Foden,21,5/28/00,171,69,England,1318.0,Left,Lean (170-185),"Flair, Long Shot Taker (AI), Playmaker (AI), Technical Dribbler (AI)"
+142,177413,A. Witsel,Axel Witsel,32,1/12/89,186,81,Belgium,1325.0,Right,Unique,"Solid Player, Leadership"
+144,179645,S. Kjær,Simon Thorup Kjær,32,3/26/89,190,86,Denmark,1331.0,Right,Normal (185+),"Leadership, Long Passer (AI)"
+147,184087,T. Alderweireld,Toby Alderweireld,32,3/2/89,186,81,Belgium,1325.0,Right,Normal (185+),Long Passer (AI)
+148,184432,Azpilicueta,César Azpilicueta Tanco,31,8/28/89,178,77,Spain,1362.0,Right,Normal (170-185),"Long Throw-in, Solid Player, Early Crosser, Long Passer (AI), Team Player"
+152,190941,L. Hrádecký,Lukáš Hrádecký,31,11/24/89,192,83,Finland,1334.0,Right,Lean (185+),"Leadership, Team Player, Comes For Crosses, Saves with Feet"
+154,192563,B. Leno,Bernd Leno,29,3/4/92,190,83,Germany,1337.0,Right,Normal (185+),"Rushes Out Of Goal, Cautious With Crosses"
+160,199845,F. Acerbi,Francesco Acerbi,33,2/10/88,192,88,Italy,1343.0,Left,Normal (185+),"Leadership, Long Passer (AI), Power Header"
+163,201153,Morata,Álvaro Borja Morata Martín,28,10/23/92,190,84,Spain,1362.0,Right,Unique,Speed Dribbler (AI)
+166,203574,J. Stones,John Stones,27,5/28/94,188,76,England,1318.0,Right,Lean (185+),Long Throw-in
+168,204838,R. Jiménez,Raúl Alonso Jiménez Rodríguez,30,5/5/91,188,81,Mexico,1386.0,Right,Normal (185+),"Flair, Power Header, Outside Foot Shot, Technical Dribbler (AI)"
+169,204935,J. Pickford,Jordan Pickford,27,3/7/94,185,77,England,1318.0,Left,Normal (185+),"Solid Player, Long Passer (AI), Rushes Out Of Goal, Saves with Feet"
+170,205452,A. Rüdiger,Antonio Rüdiger,28,3/3/93,190,85,Germany,1337.0,Right,Lean (185+),Long Passer (AI)
+174,211688,Gayà,José Luís Gayà Peña,26,5/25/95,172,66,Spain,1362.0,Left,Lean (170-185),"Team Player, Technical Dribbler (AI)"
+175,213565,T. Lemar,Thomas Lemar,25,11/12/95,171,66,France,1335.0,Left,Lean (170-185),"Finesse Shot, Technical Dribbler (AI)"
+176,213648,P. Højbjerg,Pierre-Emile Kordt Højbjerg,25,8/5/95,185,84,Denmark,1331.0,Right,Normal (185+),"Solid Player, Leadership, Long Shot Taker (AI)"
+177,214997,Á. Correa,Ángel Martín Correa,26,3/9/95,171,70,Argentina,1369.0,Right,Normal (170-185),"Flair, Technical Dribbler (AI)"
+181,220814,L. Hernández,Lucas François Bernard Hernández Pi,25,2/14/96,184,79,France,1335.0,Left,Unique,Injury Prone
+183,223689,W. Weghorst,Wout Weghorst,28,8/7/92,197,84,Netherlands,105035.0,Right,Normal (185+),Power Header
+184,223697,R. Gosens,Robin Everardus Gosens,26,7/5/94,183,76,Germany,1337.0,Left,Normal (170-185),"Early Crosser, Long Shot Taker (AI)"
+186,225850,P. Kimpembe,Presnel Kimpembe,25,8/13/95,189,80,France,1335.0,Left,Normal (185+),"Leadership, Team Player"
+189,230481,Ronaldo Cabrais,Ronaldo Jailson Cabrais Petri,29,2/29/92,177,75,Brazil,1370.0,Right,Normal (170-185),"Power Free-Kick, Flair, Long Shot Taker (AI), Technical Dribbler (AI)"
+193,233064,M. Mount,Mason Mount,22,1/10/99,178,70,England,1318.0,Right,Lean (170-185),"Long Shot Taker (AI), Technical Dribbler (AI)"
+195,235805,F. Chiesa,Federico Chiesa,23,10/25/97,175,70,Italy,1343.0,Right,Normal (170-185),"Long Shot Taker (AI), Speed Dribbler (AI)"
+197,241486,J. Koundé,Jules Koundé,22,11/12/98,181,75,France,1335.0,Right,Normal (170-185),
+198,242444,João Félix,João Félix Sequeira,21,11/10/99,181,72,Portugal,1354.0,Right,Unique,"Flair, Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+199,120533,Pepe,Kléper Laveran de Lima Ferreira,38,2/26/83,188,80,Portugal,1354.0,Right,Lean (185+),"Dives Into Tackles (AI), Leadership"
+202,168435,S. Sirigu,Salvatore Sirigu,34,1/12/87,192,85,Italy,1343.0,Right,Normal (185+),"Solid Player, GK Long Throw"
+204,173731,G. Bale,Gareth Frank Bale,31,7/16/89,185,82,Wales,1367.0,Left,Unique,"Long Throw-in, Injury Prone, Long Shot Taker (AI), Speed Dribbler (AI), Outside Foot Shot, Chip Shot (AI)"
+205,178005,Rui Patrício,Rui Pedro dos Santos Patrício,33,2/15/88,190,84,Portugal,1354.0,Left,Normal (185+),"Solid Player, Cautious With Crosses"
+211,188943,K. Trapp,Kevin Trapp,30,7/8/90,189,88,Germany,1337.0,Right,Normal (185+),"Leadership, Rushes Out Of Goal, Comes For Crosses"
+213,190460,C. Eriksen,Christian Dannemann Eriksen,29,2/14/92,181,76,Denmark,1331.0,Right,Unique,"Flair, Long Passer (AI), Long Shot Taker (AI), Playmaker (AI)"
+214,190815,D. Blind,Daley Blind,31,3/9/90,180,72,Netherlands,105035.0,Left,Normal (170-185),"Long Passer (AI), Outside Foot Shot, Team Player"
+217,193165,J. Corona,Jesús Manuel Corona Ruíz,28,1/6/93,173,66,Mexico,1386.0,Right,Normal (170-185),"Early Crosser, Flair, Chip Shot (AI), Technical Dribbler (AI)"
+226,199482,A. Lopes,Anthony Lopes,30,10/1/90,184,81,Portugal,1354.0,Left,Normal (170-185),"Team Player, Comes For Crosses"
+229,201519,J. Veretout,Jordan Veretout,28,3/1/93,177,67,France,1335.0,Right,Normal (170-185),"Long Shot Taker (AI), Playmaker (AI)"
+231,203486,T. Hazard,Thorgan Hazard,28,3/29/93,175,71,Belgium,1325.0,Right,Lean (170-185),"Flair, Technical Dribbler (AI)"
+237,208461,M. de Roon,Marten Elco de Roon,30,3/29/91,185,76,Netherlands,105035.0,Right,Normal (185+),Solid Player
+241,210935,D. Berardi,Domenico Berardi,26,8/1/94,183,72,Italy,1343.0,Left,Lean (170-185),"Flair, Long Shot Taker (AI), Team Player, Technical Dribbler (AI)"
+242,211256,N. Tagliafico,Nicolás Alejandro Tagliafico,28,8/31/92,172,65,Argentina,1369.0,Left,Normal (170-185),"Solid Player, Dives Into Tackles (AI), Power Header, Team Player"
+244,212190,N. Süle,Niklas Süle,25,9/3/95,195,99,Germany,1337.0,Right,Stocky (185+),Injury Prone
+247,212616,R. De Paul,Rodrigo Javier De Paul,27,5/24/94,180,70,Argentina,1369.0,Right,Normal (170-185),"Finesse Shot, Long Passer (AI), Long Shot Taker (AI), Playmaker (AI), Technical Dribbler (AI)"
+248,216547,Rafa,Rafael Alexandre Fernandes Ferreira da Silva,28,5/17/93,170,63,Portugal,1354.0,Right,Lean (170-),"Speed Dribbler (AI), Outside Foot Shot"
+251,220440,C. Lenglet,Clément Nicolas Laurent Lenglet,26,6/17/95,186,81,France,1335.0,Left,Unique,Power Header
+253,222077,M. Locatelli,Manuel Locatelli,23,1/8/98,185,75,Italy,1343.0,Right,Lean (185+),"Long Shot Taker (AI), Playmaker (AI)"
+254,222665,M. Ødegaard,Martin Ødegaard,22,12/17/98,178,68,Norway,1352.0,Left,Lean (170-185),"Solid Player, Flair, Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+255,224293,Rúben Neves,Rúben Diogo da Silva Neves,24,3/13/97,180,80,Portugal,1354.0,Right,Normal (170-185),"Long Passer (AI), Long Shot Taker (AI), Playmaker (AI)"
+256,224458,Diogo Jota,Diogo José Teixeira da Silva,24,12/4/96,178,73,Portugal,1354.0,Right,Normal (170-185),Speed Dribbler (AI)
+258,226271,Fabián,Fabián Ruiz Peña,25,4/3/96,189,70,Spain,1362.0,Left,Normal (185+),"Finesse Shot, Long Shot Taker (AI), Outside Foot Shot"
+259,227796,C. Pulisic,Christian Mate Pulisic,22,9/18/98,177,69,United States,1387.0,Right,Lean (170-185),"Injury Prone, Speed Dribbler (AI)"
+260,229391,Palhinha,João Maria Lobo Alves Palhinha Gonçalves,25,7/9/95,190,82,Portugal,1354.0,Right,Normal (185+),"Dives Into Tackles (AI), Long Passer (AI), Playmaker (AI)"
+265,230168,Raphaelinho Anjos,Raphael William Anjos Rochedo,33,2/29/88,190,85,Brazil,1370.0,Right,Normal (185+),Team Player
+266,230375,Josué Chiamulera,Josué Durval Chiamulera Vaz,29,2/29/92,185,80,Brazil,1370.0,Right,Normal (185+),
+267,230869,Unai Simón,Unai Simón Mendibil,24,6/11/97,190,89,Spain,1362.0,Right,Normal (185+),"Comes For Crosses, Saves with Feet"
+269,232488,C. Romero,Cristian Gabriel Romero,23,4/27/98,185,79,Argentina,1369.0,Right,Normal (185+),Dives Into Tackles (AI)
+270,233096,D. Dumfries,Denzel Justus Morris Dumfries,25,4/18/96,188,80,Netherlands,105035.0,Right,Normal (185+),"Long Throw-in, Solid Player, Speed Dribbler (AI)"
+272,233731,A. Isak,Alexander Isak,21,9/21/99,192,77,Sweden,1363.0,Right,Unique,"Flair, Speed Dribbler (AI), Outside Foot Shot"
+273,234378,D. Rice,Declan Rice,22,1/14/99,185,80,England,1318.0,Right,Normal (185+),"Leadership, Long Passer (AI)"
+274,234396,A. Davies,Alphonso Boyle Davies,20,11/2/00,183,75,Canada,111455.0,Left,Unique,"Flair, Speed Dribbler (AI)"
+275,234943,F. Neuhaus,Florian Christian Neuhaus,24,3/16/97,185,74,Germany,1337.0,Right,Lean (185+),Playmaker (AI)
+278,236792,T. Souček,Tomáš Souček,26,2/27/95,192,86,Czech Republic,1330.0,Right,Lean (185+),"Solid Player, Power Header"
+280,241461,Ferran Torres,Ferran Torres García,21,2/29/00,184,77,Spain,1362.0,Right,Lean (170-185),Technical Dribbler (AI)
+281,241464,Pau Torres,Pau Francisco Torres,24,1/16/97,191,80,Spain,1362.0,Left,Lean (185+),Power Header
+283,244260,Dani Olmo,Daniel Olmo Carvajal,23,5/7/98,179,72,Spain,1362.0,Right,Lean (170-185),"Flair, Long Shot Taker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+288,156519,H. Herrera,Héctor Miguel Herrera López,31,4/19/90,185,78,Mexico,1386.0,Right,Normal (185+),"Solid Player, Long Shot Taker (AI)"
+290,163705,S. Mandanda,Steve Mandanda,36,3/28/85,185,82,France,1335.0,Right,Normal (185+),"Leadership, Team Player"
+293,172871,J. Vertonghen,Jan Vertonghen,34,4/24/87,189,86,Belgium,1325.0,Left,Normal (185+),Power Free-Kick
+299,184200,M. Arnautović,Marko Arnautović,32,4/19/89,192,83,Austria,1322.0,Right,Normal (185+),"Flair, Long Shot Taker (AI)"
+300,187754,Marlos,Marlos Romero Bonfim,33,6/7/88,174,76,Ukraine,1366.0,Left,Normal (170-185),"Finesse Shot, Flair, Technical Dribbler (AI)"
+302,192366,N. Otamendi,Nicolás Hernán Gonzalo Otamendi,33,2/12/88,183,76,Argentina,1369.0,Right,Normal (170-185),"Solid Player, Dives Into Tackles (AI), Leadership, Power Header"
+303,193283,T. Delaney,Thomas Joseph Delaney,29,9/3/91,182,79,Denmark,1331.0,Left,Normal (170-185),Dives Into Tackles (AI)
+314,200260,S. Berghuis,Steven Berghuis,29,12/19/91,182,75,Netherlands,105035.0,Left,Lean (170-185),"Early Crosser, Finesse Shot, Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+317,200888,Danilo Pereira,Danilo Luís Hélio Pereira,29,9/9/91,188,83,Portugal,1354.0,Right,Normal (185+),
+322,204120,T. Vaclík,Tomáš Vaclík,32,3/29/89,188,85,Czech Republic,1330.0,Right,Normal (185+),"Team Player, Rushes Out Of Goal, Comes For Crosses"
+323,204311,K. Zouma,Kurt Happy Zouma,26,10/27/94,190,95,France,1335.0,Right,Normal (185+),Power Header
+325,204638,W. Orban,Vilmos Tamás Orban,28,11/3/92,186,87,Hungary,1886.0,Right,Normal (185+),"Leadership, Power Header"
+331,207439,L. Paredes,Leandro Daniel Paredes,27,6/29/94,180,75,Argentina,1369.0,Right,Normal (170-185),"Power Free-Kick, Dives Into Tackles (AI), Flair, Long Passer (AI), Long Shot Taker (AI), Outside Foot Shot"
+333,208448,E. Forsberg,Emil Peter Forsberg,29,10/23/91,177,76,Sweden,1363.0,Right,Normal (170-185),"Injury Prone, Flair, Outside Foot Shot, Technical Dribbler (AI)"
+337,210008,A. Rabiot,Adrien Rabiot,26,4/3/95,192,80,France,1335.0,Left,Lean (185+),
+338,210385,Rui Silva,Rui Tiago Dantas da Silva,27,2/7/94,191,91,Portugal,1354.0,Right,Normal (185+),Saves with Feet
+339,210406,P. Zieliński,Piotr Sebastian Zieliński,27,5/20/94,180,75,Poland,1353.0,Right,Lean (170-185),"Long Shot Taker (AI), Technical Dribbler (AI)"
+340,210411,Otávio,Otávio Edmilson da Silva Monteiro,26,2/9/95,172,71,Portugal,1354.0,Right,Normal (170-185),"Flair, Long Passer (AI), Playmaker (AI), Technical Dribbler (AI)"
+342,211300,A. Martial,Anthony Martial,25,12/5/95,184,76,France,1335.0,Right,Unique,"Finesse Shot, Flair, Outside Foot Shot, Chip Shot (AI), Technical Dribbler (AI)"
+343,211990,O. Vlachodimos,Odisseas Vlachodimos,27,4/26/94,191,78,Greece,1338.0,Right,Normal (185+),"Cautious With Crosses, Saves with Feet"
+345,214979,J. Musso,Juan Agustín Musso,27,5/6/94,191,93,Argentina,1369.0,Right,Normal (185+),
+346,215330,J. Correa,Carlos Joaquín Correa,26,8/13/94,189,75,Argentina,1369.0,Right,Normal (185+),"Finesse Shot, Flair, Technical Dribbler (AI)"
+354,221479,D. Calvert-Lewin,Dominic Calvert-Lewin,24,3/16/97,187,71,England,1318.0,Right,Unique,Power Header
+355,221992,H. Lozano,Hirving Rodrigo Lozano Bahena,25,7/30/95,175,70,Mexico,1386.0,Right,Lean (170-185),"Speed Dribbler (AI), Outside Foot Shot"
+357,224081,K. Phillips,Kalvin Phillips,25,12/2/95,178,72,England,1318.0,Right,Stocky (170-185),"Dives Into Tackles (AI), Long Passer (AI), Team Player"
+359,225375,K. Laimer,Konrad Laimer,24,5/27/97,180,72,Austria,1322.0,Right,Lean (170-185),Dives Into Tackles (AI)
+362,226226,G. Lo Celso,Giovani Lo Celso,25,4/9/96,177,68,Argentina,1369.0,Left,Normal (170-185),"Finesse Shot, Flair, Long Shot Taker (AI), Speed Dribbler (AI), Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+366,230225,Juiano Mestres,Juan Everton Mestres de Mesquita,25,2/29/96,181,82,Brazil,1370.0,Right,Normal (170-185),Power Header
+367,230256,Adryan Zonta,Adryan Juliano Zonta Torres,29,2/29/92,172,68,Brazil,1370.0,Left,Normal (170-185),
+368,230258,Rosberto Dourado,Rosberto J. Dourado Santos,21,2/29/00,175,70,Brazil,1370.0,Right,Lean (170-185),"Finesse Shot, Long Passer (AI), Technical Dribbler (AI)"
+369,230294,Louri Beretta,Lourival Adnan Beretta Barbosa,29,2/29/92,188,83,Brazil,1370.0,Right,Normal (185+),Power Header
+370,230347,Welington Dano,Welington Kauê Dano Nascimento,21,2/29/00,178,69,Brazil,1370.0,Left,Lean (170-185),
+371,230430,Oswaldinato,Marvin Oswaldo Rangel Azevedo,29,2/29/92,184,79,Brazil,1370.0,Right,Normal (170-185),"Long Shot Taker (AI), Power Header"
+372,231969,R. Malinovskyi,Ruslan Malinovskyi,28,5/4/93,181,79,Ukraine,1366.0,Left,Stocky (170-185),"Power Free-Kick, Long Passer (AI), Long Shot Taker (AI), Technical Dribbler (AI)"
+382,241852,M. Diaby,Moussa Diaby,21,7/7/99,170,68,France,1335.0,Left,Normal (170-),"Speed Dribbler (AI), Technical Dribbler (AI)"
+385,247394,D. Kulusevski,Dejan Kulusevski,21,4/25/00,186,75,Sweden,1363.0,Left,Normal (185+),Flair
+387,251854,Pedri,Pedro González López,18,11/25/02,174,61,Spain,1362.0,Right,Lean (170-185),"Solid Player, Flair, Technical Dribbler (AI)"
+389,140233,G. Ochoa,Francisco Guillermo Ochoa Magaña,35,7/13/85,190,85,Mexico,1386.0,Right,Lean (170-185),"Leadership, GK Long Throw, Cautious With Crosses"
+391,162347,João Moutinho,João Filipe Iria Santos Moutinho,34,9/8/86,170,61,Portugal,1354.0,Right,Normal (170-),"Leadership, Long Passer (AI), Playmaker (AI), Outside Foot Shot"
+392,169588,J. Evans,Jonathan Grant Evans,33,1/3/88,188,77,Northern Ireland,110081.0,Right,Lean (185+),
+395,172522,D. Wass,Daniel Wass,32,5/31/89,181,74,Denmark,1331.0,Right,Normal (170-185),"Solid Player, Long Shot Taker (AI)"
+396,173426,S. Mignolet,Simon Luc Hildebert Mignolet,33,3/6/88,193,87,Belgium,1325.0,Right,Normal (185+),"Leadership, Team Player, Rushes Out Of Goal, Comes For Crosses, Saves with Feet"
+407,186561,A. Ramsey,Aaron Ramsey,30,12/26/90,183,76,Wales,1367.0,Right,Lean (170-185),"Injury Prone, Outside Foot Shot"
+408,187598,Rafael Tolói,Rafael Tolói,30,10/10/90,185,75,Italy,1343.0,Right,Lean (185+),
+416,197242,G. Krychowiak,Grzegorz Krychowiak,31,1/29/90,187,84,Poland,1353.0,Right,Normal (185+),"Long Passer (AI), Long Shot Taker (AI)"
+427,201922,M. Hinteregger,Martin Hinteregger,28,9/7/92,184,83,Austria,1322.0,Left,Normal (170-185),"Dives Into Tackles (AI), Long Passer (AI)"
+451,212814,João Mário,João Mário Naval da Costa Eduardo,28,1/19/93,179,73,Portugal,1354.0,Right,Normal (170-185),"Playmaker (AI), Technical Dribbler (AI)"
+452,213661,A. Christensen,Andreas Bødtker Christensen,25,4/10/96,187,81,Denmark,1331.0,Right,Lean (185+),Injury Prone
+453,214584,F. Armani,Franco Armani,34,10/16/86,189,88,Argentina,1369.0,Right,Normal (185+),"Leadership, Cautious With Crosses"
+457,217870,G. Di Lorenzo,Giovanni Di Lorenzo,27,8/4/93,183,83,Italy,1343.0,Right,Normal (170-185),
+460,220182,J. Denayer,Jason Denayer,26,6/28/95,184,80,Belgium,1325.0,Right,Normal (170-185),"Leadership, Team Player"
+463,221660,V. Lindelöf,Victor Jörgen Nilsson Lindelöf,26,7/17/94,187,80,Sweden,1363.0,Right,Lean (185+),
+464,222331,L. Klostermann,Lukas Manuel Klostermann,25,6/3/96,187,88,Germany,1337.0,Right,Normal (185+),"Speed Dribbler (AI), Team Player"
+473,225953,S. Bergwijn,Steven Charles Bergwijn,23,10/8/97,178,78,Netherlands,105035.0,Right,Stocky (170-185),"Flair, Long Shot Taker (AI), Speed Dribbler (AI), Outside Foot Shot, Technical Dribbler (AI)"
+474,226491,K. Tierney,Kieran Tierney,24,6/5/97,178,70,Scotland,1359.0,Left,Normal (170-185),"Long Throw-in, Injury Prone, Speed Dribbler (AI)"
+477,227813,O. Zinchenko,Oleksandr Zinchenko,24,12/15/96,175,64,Ukraine,1366.0,Left,Lean (170-185),"Flair, Long Shot Taker (AI)"
+478,227928,Nélson Semedo,Nélson Cabral Semedo,27,11/16/93,177,69,Portugal,1354.0,Right,Unique,Speed Dribbler (AI)
+484,230201,Maikel Catarino,Maikel Renan Catarino Fagundes,25,2/29/96,177,75,Brazil,1370.0,Right,Normal (170-185),Solid Player
+485,230204,Héniton Pires,Héniton Enaldo Pires Tramontino,25,2/29/96,182,74,Brazil,1370.0,Right,Normal (170-185),GK Long Throw
+486,230271,Laure Santeiro,Laureano Thomas Santeiro Marre,21,2/29/00,171,63,Brazil,1370.0,Left,Lean (170-185),"Flair, Technical Dribbler (AI)"
+487,230313,Tony Abranjes,Tony Josimar Abranjes Meneses,33,2/29/88,179,80,Brazil,1370.0,Right,Stocky (170-185),
+489,231447,D. Malen,Donyell Malen,22,1/19/99,179,78,Netherlands,105035.0,Right,Normal (170-185),"Flair, Outside Foot Shot, Technical Dribbler (AI)"
+492,233195,X. Schlager,Xaver Schlager,23,9/28/97,174,76,Austria,1322.0,Left,Stocky (170-185),"Dives Into Tackles (AI), Long Shot Taker (AI)"
+493,233306,D. Henderson,Dean Henderson,24,3/12/97,188,85,England,1318.0,Right,Normal (185+),"GK Long Throw, Rushes Out Of Goal, Comes For Crosses, Saves with Feet"
+497,237238,S. McTominay,Scott McTominay,24,12/8/96,193,88,Scotland,1359.0,Right,Normal (185+),"Solid Player, Long Shot Taker (AI), Team Player"
+498,237383,A. Bastoni,Alessandro Bastoni,22,4/13/99,190,75,Italy,1343.0,Left,Lean (185+),Team Player
+506,244369,V. Tsygankov,Viktor Tsygankov,23,11/15/97,178,72,Ukraine,1366.0,Left,Lean (170-185),"Flair, Playmaker (AI), Technical Dribbler (AI)"
+507,244470,V. Coufal,Vladimír Coufal,28,8/22/92,175,76,Czech Republic,1330.0,Right,Normal (170-185),"Long Throw-in, Solid Player, Early Crosser"
+508,246669,B. Saka,Bukayo Saka,19,9/5/01,178,65,England,1318.0,Left,Lean (170-185),"Team Player, Technical Dribbler (AI)"
+521,184484,G. Sigurðsson,Gylfi Þór Sigurðsson,31,9/8/89,186,77,Iceland,1341.0,Right,Normal (185+),"Solid Player, Finesse Shot, Long Shot Taker (AI), Playmaker (AI)"
+537,192123,C. Wood,Christopher Grant Wood,29,12/7/91,191,92,New Zealand,111473.0,Right,Normal (185+),Power Header
+538,192598,Ai Kesen,艾克森,31,7/13/89,180,77,China PR,1413.0,Right,Stocky (170-185),"Power Free-Kick, Chip Shot (AI), Technical Dribbler (AI)"
+564,203483,D. Klaassen,Davy Klaassen,28,2/21/93,179,70,Netherlands,105035.0,Right,Normal (170-185),"Dives Into Tackles (AI), Outside Foot Shot"
+570,205923,B. Davies,Benjamin Thomas Davies,28,4/24/93,182,76,Wales,1367.0,Left,Normal (170-185),"Long Passer (AI), Team Player"
+571,206413,T. Stepanenko,Taras Stepanenko,31,8/8/89,181,80,Ukraine,1366.0,Left,Normal (170-185),"Dives Into Tackles (AI), Team Player"
+581,210324,J. Hofmann,Jonas Hofmann,28,7/14/92,176,73,Germany,1337.0,Right,Normal (170-185),Team Player
+590,212404,F. Bernardeschi,Federico Bernardeschi,27,2/16/94,185,77,Italy,1343.0,Left,Normal (185+),"Flair, Long Shot Taker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+598,218339,M. Dahoud,Mahmoud Dahoud,25,1/1/96,178,68,Germany,1337.0,Right,Lean (170-185),"Flair, Long Passer (AI), Long Shot Taker (AI), Technical Dribbler (AI)"
+607,222501,T. Castagne,Timothy Castagne,25,12/5/95,180,80,Belgium,1325.0,Right,Lean (170-185),Early Crosser
+614,225116,A. Meret,Alex Meret,24,3/22/97,190,83,Italy,1343.0,Left,Lean (185+),
+616,225663,A. Golovin,Aleksandr Golovin,25,5/30/96,180,69,Russia,1357.0,Right,Lean (170-185),"Long Shot Taker (AI), Technical Dribbler (AI)"
+624,228687,K. Dolberg,Kasper Dolberg Rasmussen,23,10/6/97,187,84,Denmark,1331.0,Right,Normal (185+),"Finesse Shot, Power Header, Outside Foot Shot"
+626,230216,Adnan Vidual,Adnan Claudiano Vidual Machado,29,2/29/92,175,70,Brazil,1370.0,Right,Lean (170-185),
+627,230234,Everton Andrão,Everton Jorge Andrade Zanon,25,2/29/96,177,75,Brazil,1370.0,Right,Stocky (170-185),
+629,230312,Gabri Prestão,Bernard Gabriel Prestão Chaves,29,2/29/92,186,80,Brazil,1370.0,Right,Normal (185+),GK Long Throw
+630,230498,Luimo Boas Santos,Luan Vágner Boas Macedo,21,2/29/00,176,73,Brazil,1370.0,Right,Normal (170-185),"Finesse Shot, Outside Foot Shot"
+638,234236,P. Schick,Patrik Schick,25,1/24/96,191,85,Czech Republic,1330.0,Left,Normal (185+),"Injury Prone, Finesse Shot, Flair, Technical Dribbler (AI)"
+649,239301,L. Martínez,Lisandro Martínez,23,1/18/98,178,77,Argentina,1369.0,Left,Normal (170-185),Solid Player
+652,240679,T. Koopmeiners,Teun Koopmeiners,23,2/28/98,183,77,Netherlands,105035.0,Left,Normal (170-185),"Solid Player, Long Passer (AI), Long Shot Taker (AI), Playmaker (AI)"
+653,241637,A. Tchouaméni,Aurélien Tchouaméni,21,1/27/00,187,81,France,1335.0,Right,Normal (185+),Long Passer (AI)
+655,242516,C. Gakpo,Cody Mathès Gakpo,22,5/7/99,189,76,Netherlands,105035.0,Right,Lean (185+),"Finesse Shot, Outside Foot Shot, Technical Dribbler (AI)"
+661,252371,J. Bellingham,Jude Victor William Bellingham,18,6/29/03,186,75,England,1318.0,Right,Lean (185+),"Dives Into Tackles (AI), Technical Dribbler (AI)"
+672,171897,A. Guardado,José Andrés Guardado Hernández,34,9/28/86,169,67,Mexico,1386.0,Left,Lean (170-),Injury Prone
+687,180216,S. Coleman,Séamus Coleman,32,10/11/88,177,77,Republic of Ireland,1355.0,Right,Normal (170-185),"Leadership, Team Player"
+694,187607,A. Dzyuba,Artem Dzyuba,32,8/22/88,196,91,Russia,1357.0,Right,Normal (185+),Leadership
+714,197837,D. Boyata,Anga Dedryck Boyata,30,11/28/90,188,84,Belgium,1325.0,Right,Normal (185+),"Injury Prone, Power Header"
+715,198657,J. Svensson,Jonas Svensson,28,3/6/93,170,70,Norway,1352.0,Right,Stocky (170-),"Solid Player, Dives Into Tackles (AI)"
+716,198658,F. Midtsjø,Fredrik Midtsjø,27,8/11/93,176,70,Norway,1352.0,Right,Normal (170-185),Solid Player
+720,199652,D. Praet,Dennis Praet,27,5/14/94,181,78,Belgium,1325.0,Right,Normal (170-185),Technical Dribbler (AI)
+726,201417,M. Doherty,Matthew James Doherty,29,1/16/92,182,87,Republic of Ireland,1355.0,Right,Normal (170-185),"Solid Player, Early Crosser"
+728,202849,J. Vestergaard,Jannik Vestergaard,28,8/3/92,199,96,Denmark,1331.0,Right,Normal (185+),"Long Passer (AI), Power Header"
+729,203605,P. Kadeřábek,Pavel Kadeřábek,29,4/25/92,182,81,Czech Republic,1330.0,Right,Normal (170-185),Speed Dribbler (AI)
+732,204082,J. Brooks,John Anthony Brooks,28,1/28/93,193,78,United States,1387.0,Left,Normal (185+),"Long Passer (AI), Power Header"
+741,208268,B. Cristante,Bryan Cristante,26,3/3/95,186,80,Italy,1343.0,Right,Normal (185+),Long Passer (AI)
+751,210736,Emerson,Emerson Palmieri dos Santos,26,8/3/94,176,79,Italy,1343.0,Left,Normal (170-185),Speed Dribbler (AI)
+752,210881,J. McGinn,John McGinn,26,10/18/94,178,68,Scotland,1359.0,Left,Normal (170-185),"Long Passer (AI), Long Shot Taker (AI), Playmaker (AI)"
+755,212207,N. Stanciu,Nicolae Claudiu Stanciu,28,5/7/93,170,63,Romania,1356.0,Right,Normal (170-),"Long Passer (AI), Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+757,212419,T. Mings,Tyrone Mings,28,3/13/93,196,77,England,1318.0,Left,Normal (185+),"Leadership, Long Passer (AI)"
+758,213160,R. Zobnin,Roman Zobnin,27,2/11/94,182,78,Russia,1357.0,Right,Lean (170-185),Team Player
+763,213956,Adama Traoré,Adama Traoré Diarra,25,1/25/96,178,72,Spain,1362.0,Right,Unique,"Flair, Speed Dribbler (AI)"
+765,214092,A. Miranchuk,Aleksey Miranchuk,25,10/17/95,182,67,Russia,1357.0,Left,Normal (170-185),"Flair, Playmaker (AI), Technical Dribbler (AI)"
+772,216643,L. Dubois,Léo Dubois,26,9/14/94,178,65,France,1335.0,Right,Lean (170-185),
+793,225659,G. Rodríguez,Guido Rodríguez,26,4/11/95,185,80,Argentina,1369.0,Right,Lean (185+),"Dives Into Tackles (AI), Long Shot Taker (AI), Outside Foot Shot"
+803,228336,F. Grillitsch,Florian Grillitsch,25,8/7/95,187,77,Austria,1322.0,Right,Lean (185+),"Leadership, Long Passer (AI), Playmaker (AI)"
+809,230212,Antônio Chiamuloira,A. Benjamin Chiamuloira Paes,21,2/29/00,182,79,Brazil,1370.0,Left,Normal (170-185),"Solid Player, Long Passer (AI)"
+812,230385,Albertinho Dutra,Alberto Marcelo Dutra Cirino,29,2/29/92,175,72,Brazil,1370.0,Left,Normal (170-185),
+813,230406,Guilson Paiva,G. Pierre Paiva Souza,25,2/29/96,173,72,Brazil,1370.0,Right,Lean (170-185),
+814,230426,Arturo Inálcio,Arturo Adolfo Inálcio Dutra,21,2/29/00,170,60,Brazil,1370.0,Right,Normal (170-),Long Passer (AI)
+817,230460,Prazeracinho,Jonathan Prazeres Conradi,21,2/29/00,172,70,Brazil,1370.0,Left,Normal (170-185),
+818,231340,G. Montiel,Gonzalo Ariel Montiel,24,1/1/97,175,70,Argentina,1369.0,Right,Normal (170-185),"Long Throw-in, Dives Into Tackles (AI)"
+827,234835,Domingos Duarte,Domingos Sousa Coutinho Meneses Duarte,26,3/3/95,190,78,Portugal,1354.0,Right,Lean (185+),"Dives Into Tackles (AI), Long Passer (AI)"
+831,236791,A. Barák,Antonín Barák,26,12/3/94,190,86,Czech Republic,1330.0,Left,Normal (185+),Technical Dribbler (AI)
+833,238067,N. Zaniolo,Nicolò Zaniolo,21,7/2/99,190,79,Italy,1343.0,Left,Unique,"Injury Prone, Flair, Speed Dribbler (AI)"
+838,239613,M. Pessina,Matteo Pessina,24,4/21/97,183,75,Italy,1343.0,Left,Lean (170-185),
+844,242187,C. Baumgartner,Christoph Baumgartner,21,8/1/99,180,73,Austria,1322.0,Right,Lean (170-185),"Flair, Technical Dribbler (AI)"
+848,243630,J. David,Jonathan Christian David,21,1/14/00,177,77,Canada,111455.0,Right,Normal (170-185),"Solid Player, Outside Foot Shot"
+854,246104,R. Gravenberch,Ryan Jiro Gravenberch,19,5/16/02,190,79,Netherlands,105035.0,Right,Lean (185+),"Solid Player, Flair, Outside Foot Shot, Technical Dribbler (AI)"
+861,252145,Nuno Mendes,Nuno Alexandre Tavares Mendes,19,6/19/02,176,70,Portugal,1354.0,Left,Normal (170-185),Speed Dribbler (AI)
+862,256630,F. Wirtz,Florian Richard Wirtz,18,5/3/03,176,70,Germany,1337.0,Right,Normal (170-185),"Flair, Playmaker (AI), Outside Foot Shot, Chip Shot (AI), Technical Dribbler (AI)"
+871,170597,T. Krul,Tim Krul,33,4/3/88,188,74,Netherlands,105035.0,Left,Lean (185+),Comes For Crosses
+891,188044,A Lan,阿兰,31,7/10/89,178,64,China PR,1413.0,Right,Lean (170-185),"Long Passer (AI), Speed Dribbler (AI)"
+905,193254,C. Trimmel,Christopher Trimmel,34,2/24/87,189,82,Austria,1322.0,Right,Normal (185+),"Long Throw-in, Early Crosser, Team Player"
+906,193290,M. Braithwaite,Martin Braithwaite Christensen,30,6/5/91,177,73,Denmark,1331.0,Right,Normal (170-185),"Flair, Speed Dribbler (AI)"
+912,194958,A. Mooy,Aaron Frank Mooy,30,9/15/90,175,68,Australia,1415.0,Right,Normal (170-185),"Solid Player, Early Crosser, Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot"
+921,198140,R. Funes Mori,Rogelio Gabriel Funes Mori,30,3/5/91,186,78,Mexico,1386.0,Right,Lean (185+),"Dives Into Tackles (AI), Finesse Shot, Flair, Outside Foot Shot, Team Player"
+922,199005,M. Ryan,Mathew David Ryan,29,4/8/92,184,82,Australia,1415.0,Right,Normal (170-185),"GK Long Throw, Rushes Out Of Goal"
+925,199641,M. Sels,Matz Sels,29,2/26/92,190,88,Belgium,1325.0,Right,Normal (185+),Injury Prone
+926,200094,M. Ozdoev,Magomed Ozdoev,28,11/5/92,184,78,Russia,1357.0,Right,Normal (170-185),Long Passer (AI)
+935,202282,S. Armstrong,Stuart Armstrong,29,3/30/92,183,75,Scotland,1359.0,Right,Normal (170-185),Long Shot Taker (AI)
+936,202371,T. Meunier,Thomas Meunier,29,9/12/91,191,90,Belgium,1325.0,Right,Normal (185+),Outside Foot Shot
+950,207421,L. Trossard,Leandro Trossard,26,12/4/94,172,67,Belgium,1325.0,Right,Normal (170-185),"Flair, Long Shot Taker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+952,207791,Y. Poulsen,Yussuf Yurary Poulsen,27,6/15/94,192,84,Denmark,1331.0,Right,Lean (185+),"Leadership, Team Player"
+955,208250,A. Bakasetas,Anastasios Bakasetas,28,6/28/93,181,78,Greece,1338.0,Left,Normal (170-185),Long Shot Taker (AI)
+970,212501,L. Dendoncker,Leander Dendoncker,26,4/15/95,189,88,Belgium,1325.0,Right,Normal (185+),"Solid Player, Long Shot Taker (AI)"
+983,215502,B. Drągowski,Bartłomiej Drągowski,23,8/19/97,188,74,Poland,1353.0,Right,Normal (185+),
+1010,224221,J. Andersen,Joachim Christian Andersen,25,5/31/96,192,90,Denmark,1331.0,Right,Normal (185+),Long Passer (AI)
+1011,224389,J. Larsson,Carl Henrik Jordan Larsson,24,6/20/97,175,68,Sweden,1363.0,Left,Lean (170-185),"Finesse Shot, Flair, Long Shot Taker (AI), Speed Dribbler (AI)"
+1014,224574,O. Pineda,Orbelín Pineda Alvarado,25,3/24/96,169,63,Mexico,1386.0,Right,Normal (170-),"Long Shot Taker (AI), Outside Foot Shot"
+1033,229773,G. Dzhikiya,Georgiy Dzhikiya,27,11/21/93,188,86,Russia,1357.0,Left,Normal (185+),"Dives Into Tackles (AI), Long Passer (AI)"
+1047,230384,Nuno Padrenda,Nuno Ailton Padrenda Mendes,25,2/29/96,180,75,Brazil,1370.0,Right,Normal (170-185),Dives Into Tackles (AI)
+1056,231521,E. Palacios,Exequiel Alejandro Palacios,22,10/5/98,177,67,Argentina,1369.0,Right,Lean (170-185),"Dives Into Tackles (AI), Long Passer (AI), Long Shot Taker (AI)"
+1060,232104,D. James,Daniel James,23,11/10/97,171,76,Wales,1367.0,Right,Normal (170-185),"Solid Player, Long Shot Taker (AI), Speed Dribbler (AI)"
+1062,232229,J. Bijlow,Justin Bijlow,23,1/22/98,188,76,Netherlands,105035.0,Right,Normal (185+),"Injury Prone, Comes For Crosses"
+1066,232999,T. Adams,Tyler Shaan Adams,22,2/14/99,175,72,United States,1387.0,Right,Normal (170-185),Injury Prone
+1072,234678,J. Mæhle,Joakim Mæhle Pedersen,24,5/20/97,185,79,Denmark,1331.0,Right,Normal (185+),Speed Dribbler (AI)
+1075,234777,Z. Steffen,Zack Thomas Steffen,26,4/2/95,191,86,United States,1387.0,Right,Stocky (185+),"Rushes Out Of Goal, Saves with Feet"
+1079,235844,E. Álvarez,Edson Omar Álvarez Velázquez,23,10/24/97,187,73,Mexico,1386.0,Right,Normal (185+),"Solid Player, Dives Into Tackles (AI)"
+1090,236772,D. Szoboszlai,Dominik Szoboszlai,20,10/25/00,186,74,Hungary,1886.0,Right,Normal (185+),"Early Crosser, Flair, Long Passer (AI), Long Shot Taker (AI), Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+1093,238041,T. Malacia,Tyrell Malacia,21,8/17/99,169,67,Netherlands,105035.0,Left,Lean (170-),"Long Throw-in, Dives Into Tackles (AI), Early Crosser, Speed Dribbler (AI)"
+1095,238744,W. McKennie,Weston James Earl McKennie,22,8/28/98,183,84,United States,1387.0,Right,Normal (170-185),Giant Throw-in
+1103,240702,R. Yaremchuk,Roman Yaremchuk,25,11/27/95,191,79,Ukraine,1366.0,Right,Normal (185+),Long Shot Taker (AI)
+1108,241508,M. Damsgaard,Mikkel Krogh Damsgaard,20,7/3/00,180,71,Denmark,1331.0,Right,Lean (170-185),"Flair, Long Shot Taker (AI), Speed Dribbler (AI), Technical Dribbler (AI)"
+1112,243015,L. Romo,Luis Francisco Romo Barrón,26,6/5/95,182,84,Mexico,1386.0,Right,Normal (170-185),"Power Free-Kick, Long Shot Taker (AI)"
+1119,245037,Eric García,Eric García Martret,20,1/9/01,182,76,Spain,1362.0,Right,Lean (170-185),
+1122,245541,G. Reyna,Giovanni Alejandro Reyna,18,11/13/02,185,79,United States,1387.0,Right,Normal (185+),Technical Dribbler (AI)
+1127,247030,P. Ševčík,Petr Ševčík,27,5/4/94,172,66,Czech Republic,1330.0,Right,Normal (170-185),"Long Shot Taker (AI), Playmaker (AI), Technical Dribbler (AI)"
+1129,251116,T. Holeš,Tomáš Holeš,28,3/31/93,180,73,Czech Republic,1330.0,Right,Stocky (170-185),Dives Into Tackles (AI)
+1137,104389,R. Jarstein,Rune Almenning Jarstein,36,9/29/84,190,86,Norway,1352.0,Right,Normal (185+),Comes For Crosses
+1138,134744,A. Hutchinson,Atiba Hutchinson,38,2/8/83,187,83,Canada,111455.0,Right,Lean (185+),"Leadership, Power Header, Team Player"
+1143,151508,S. Davis,Steven Davis,36,1/1/85,173,70,Northern Ireland,110081.0,Right,Normal (170-185),"Solid Player, Leadership, Long Passer (AI), Playmaker (AI), Team Player"
+1146,154950,Y. Zhirkov,Yuriy Zhirkov,37,8/20/83,180,75,Russia,1357.0,Left,Lean (170-185),Speed Dribbler (AI)
+1152,167575,A. Shunin,Anton Shunin,34,1/27/87,191,88,Russia,1357.0,Left,Lean (185+),Team Player
+1154,168621,Zeca,José Carlos Gonçalves Rodrigues,32,8/31/88,182,67,Greece,1338.0,Right,Lean (170-185),"Dives Into Tackles (AI), Leadership, Outside Foot Shot"
+1166,181318,A. Ekdal,Albin Ekdal,31,7/28/89,186,82,Sweden,1363.0,Right,Lean (185+),"Injury Prone, Playmaker (AI)"
+1173,186098,R. Cota,Rodolfo Cota Robles,33,7/3/87,183,86,Mexico,1386.0,Right,Normal (170-185),"Solid Player, Comes For Crosses"
+1182,189060,A. Dragović,Aleksandar Dragović,30,3/6/91,186,84,Austria,1322.0,Right,Normal (185+),Dives Into Tackles (AI)
+1187,190362,T. Pukki,Teemu Pukki,31,3/29/90,180,80,Finland,1334.0,Right,Normal (170-185),Finesse Shot
+1190,192041,N. Araújo,Néstor Alejandro Araújo Razo,29,8/29/91,188,87,Mexico,1386.0,Right,Normal (185+),Dives Into Tackles (AI)
+1198,194794,A. Yarmolenko,Andriy Yarmolenko,31,10/23/89,190,83,Ukraine,1366.0,Left,Lean (185+),"Injury Prone, Flair, Long Shot Taker (AI), Outside Foot Shot"
+1233,204125,J. Bořil,Jan Bořil,30,1/11/91,175,75,Czech Republic,1330.0,Right,Stocky (170-185),"Long Throw-in, Solid Player, Leadership"
+1236,204529,M. Batshuayi,Michy Batshuayi Tunga,27,10/2/93,185,78,Belgium,1325.0,Right,Normal (185+),Flair
+1241,205211,M. Borjan,Milan Borjan,33,10/23/87,196,84,Canada,111455.0,Right,Normal (185+),"Leadership, Comes For Crosses"
+1255,207554,V. Claesson,Viktor Johan Anton Claesson,29,1/2/92,183,79,Sweden,1363.0,Right,Normal (170-185),Playmaker (AI)
+1256,207557,R. Olsen,Robin Patrick Olsen,31,1/8/90,196,86,Sweden,1363.0,Right,Normal (185+),
+1260,208053,D. Pelkas,Dimitrios Pelkas,27,10/26/93,175,73,Greece,1338.0,Right,Lean (170-185),"Long Passer (AI), Long Shot Taker (AI), Speed Dribbler (AI), Playmaker (AI), Team Player"
+1262,208224,P. Mantalos,Petros Mantalos,29,8/31/91,176,73,Greece,1338.0,Right,Lean (170-185),"Leadership, Playmaker (AI), Team Player"
+1284,212232,J. Maclaren,Jamie Maclaren,27,7/29/93,179,76,Australia,1415.0,Right,Normal (170-185),"Solid Player, Finesse Shot"
+1289,212678,L. Augustinsson,Hans Carl Ludwig Augustinsson,27,4/21/94,181,72,Sweden,1363.0,Left,Lean (170-185),
+1312,216549,A. Sørloth,Alexander Sørloth,25,12/5/95,194,90,Norway,1352.0,Left,Normal (185+),"Flair, Speed Dribbler (AI), Outside Foot Shot"
+1316,220196,D. Brooks,David Robert Brooks,23,7/8/97,183,62,Wales,1367.0,Left,Lean (170-185),"Flair, Playmaker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+1318,220570,J. Bednarek,Jan Bednarek,25,4/12/96,189,77,Poland,1353.0,Right,Lean (185+),Dives Into Tackles (AI)
+1325,222404,M. Normann,Mathias Antonsen Normann,25,5/28/96,179,75,Norway,1352.0,Right,Normal (170-185),"Long Passer (AI), Playmaker (AI)"
+1328,223113,K. Piątek,Krzysztof Piątek,26,7/1/95,183,77,Poland,1353.0,Right,Normal (170-185),
+1334,224151,H. Martín,Henry Josué Martín Mex,28,11/18/92,177,80,Mexico,1386.0,Right,Stocky (170-185),Power Header
+1345,226093,C. Adams,Ché Adams,24,7/13/96,178,70,Scotland,1359.0,Right,Stocky (170-185),
+1346,226229,T. Kehrer,Jan Thilo Kehrer,24,9/21/96,186,76,Germany,1337.0,Right,Normal (185+),
+1355,228092,S. Berge,Sander Gard Bolin Berge,23,2/18/98,195,96,Norway,1352.0,Right,Normal (185+),Long Passer (AI)
+1361,228789,Robert Sanchéz,Robert Lynch Sanchéz,23,11/18/97,197,85,Spain,1362.0,Right,Normal (185+),Comes For Crosses
+1382,231366,P. Lienhart,Philipp Lienhart,24,7/11/96,189,83,Austria,1322.0,Right,Normal (185+),
+1389,233493,J. Sánchez,Jorge Eduardo Sánchez Ramos,23,12/10/97,175,80,Mexico,1386.0,Right,Stocky (170-185),"Long Throw-in, Early Crosser, Speed Dribbler (AI)"
+1392,233848,J. Hauge,Jens Petter Hauge,21,10/12/99,184,80,Norway,1352.0,Right,Normal (170-185),"Finesse Shot, Flair, Long Shot Taker (AI), Outside Foot Shot, Technical Dribbler (AI)"
+1395,234171,R. Sallai,Roland Sallai,24,5/22/97,183,76,Hungary,1886.0,Right,Normal (170-185),
+1411,237043,R. Alvarado,Roberto Carlos Alvarado Hernández,22,9/7/98,176,70,Mexico,1386.0,Left,Lean (170-185),"Playmaker (AI), Technical Dribbler (AI)"
+1415,238033,F. Niță,Florin Constantin Niţă,33,7/3/87,184,78,Romania,1356.0,Right,Normal (170-185),
+1430,242118,S. Córdova,Francisco Sebastián Córdova Reyes,24,6/12/97,174,66,Mexico,1386.0,Left,Lean (170-185),"Finesse Shot, Flair, Playmaker (AI), Technical Dribbler (AI)"
+1433,242380,Stephen Eustáquio,Stephen Antunes Eustáquio,24,12/21/96,178,66,Canada,111455.0,Right,Lean (170-185),
+1438,243007,L. Masopust,Lukáš Masopust,28,2/12/93,179,76,Czech Republic,1330.0,Right,Normal (170-185),"Long Throw-in, Flair, Speed Dribbler (AI)"
+1442,244374,M. Shaparenko,Mykola Shaparenko,22,10/4/98,177,67,Ukraine,1366.0,Right,Lean (170-185),Playmaker (AI)
+1443,244380,V. Mykolenko,Vitaliy Mykolenko,22,5/29/99,180,71,Ukraine,1366.0,Left,Normal (170-185),
+1450,246618,A. Hložek,Adam Hložek,18,7/25/02,188,86,Czech Republic,1330.0,Right,Normal (185+),"Long Shot Taker (AI), Technical Dribbler (AI)"
+1451,246708,G. Masouras,Giorgios Masouras,27,1/1/94,184,76,Greece,1338.0,Right,Normal (170-185),Team Player
+1458,251804,S. Dest,Sergiño Gianni Dest,20,11/3/00,175,62,United States,1387.0,Right,Normal (170-185),Flair
+1467,142902,A. Pyatov,Andriy Pyatov,37,6/28/84,190,92,Ukraine,1366.0,Right,Normal (185+),"Leadership, Team Player"
+1476,157304,T. Vermaelen,Thomas Vermaelen,35,11/14/85,183,80,Belgium,1325.0,Left,Normal (170-185),"Injury Prone, Power Header"
+1481,163301,J. Orozco,Jonathan Emmanuel Orozco Domínguez,35,5/12/86,184,81,Mexico,1386.0,Right,Normal (170-185),"Leadership, GK Long Throw, Rushes Out Of Goal, Cautious With Crosses"
+1485,169697,D. Randolph,Darren Randolph,34,5/12/87,188,78,Republic of Ireland,1355.0,Right,Normal (185+),Comes For Crosses
+1510,183129,C. Clark,Ciaran Clark,31,9/26/89,185,88,Republic of Ireland,1355.0,Left,Normal (170-185),
+1517,184111,C. Benteke,Christian Benteke Liolo,30,12/3/90,190,83,Belgium,1325.0,Right,Lean (185+),"Injury Prone, Power Header"
+1526,185422,J. King,Joshua Christian Kojo King,29,1/15/92,184,82,Norway,1352.0,Right,Normal (170-185),"Flair, Speed Dribbler (AI)"
+1528,186347,M. Rybus,Maciej Rybus,31,8/19/89,173,75,Poland,1353.0,Left,Normal (170-185),
+1534,188038,O. Čelůstka,Ondřej Čelůstka,32,6/18/89,186,80,Czech Republic,1330.0,Right,Normal (185+),"Injury Prone, Leadership"
+1538,189177,J. Fleck,John Fleck,29,8/24/91,170,72,Scotland,1359.0,Left,Stocky (170-),"Dives Into Tackles (AI), Long Shot Taker (AI), Outside Foot Shot"
+1544,189456,L. Cooper,Liam Cooper,29,8/30/91,188,73,Scotland,1359.0,Left,Lean (185+),"Injury Prone, Leadership, Team Player"
+1547,189908,Ł. Skorupski,Łukasz Skorupski,30,5/5/91,187,84,Poland,1353.0,Right,Normal (185+),Comes For Crosses
+1557,191076,J. Guðmundsson,Johann Berg Guðmunds­son,30,10/27/90,179,77,Iceland,1341.0,Left,Normal (170-185),"Injury Prone, Flair, Long Shot Taker (AI)"
+1561,192129,K. Nordfeldt,Bo Kristoffer Nordfeldt,32,6/23/89,188,87,Sweden,1363.0,Right,Normal (185+),
+1566,192955,M. Klich,Mateusz Andrzej Klich,31,6/13/90,183,82,Poland,1353.0,Right,Lean (170-185),"Solid Player, Finesse Shot, Long Shot Taker (AI)"
+1568,193133,J. Larsen,Jens Stryger Larsen,30,2/21/91,180,82,Denmark,1331.0,Right,Normal (170-185),Solid Player
+1574,195038,F. Kainz,Florian Kainz,28,10/24/92,176,71,Austria,1322.0,Right,Lean (170-185),Technical Dribbler (AI)
+1587,198904,G. Hanley,Grant Hanley,29,11/20/91,187,81,Scotland,1359.0,Right,Normal (185+),"Leadership, Power Header"
+1615,203362,M. Elyounoussi,Mohamed Amine Elyounoussi,26,8/4/94,178,70,Norway,1352.0,Right,Normal (170-185),"Flair, Technical Dribbler (AI)"
+1616,203570,S. Dallas,Stuart Dallas,30,4/19/91,183,81,Northern Ireland,110081.0,Right,Lean (170-185),"Long Shot Taker (AI), Team Player"
+1624,204936,J. Egan,John Egan,28,10/20/92,185,75,Republic of Ireland,1355.0,Right,Normal (185+),Leadership
+1637,206114,K. Olsson,Mats Kristoffer Olsson,26,6/30/95,181,69,Sweden,1363.0,Right,Lean (170-185),"Flair, Playmaker (AI)"
+1642,207683,S. Dioudis,Sokratis Dioudis,28,2/3/93,189,75,Greece,1338.0,Right,Lean (185+),
+1645,207807,R. Fraser,Ryan Fraser,27,2/24/94,163,70,Scotland,1359.0,Right,Stocky (170-),"Finesse Shot, Flair, Speed Dribbler (AI)"
+1656,210136,T. Kędziora,Tomasz Karol Kędziora,27,6/11/94,183,77,Poland,1353.0,Right,Lean (170-185),Early Crosser
+1663,211093,C. McGregor,Callum William McGregor,28,6/14/93,174,74,Scotland,1359.0,Left,Normal (170-185),"Solid Player, Leadership, Finesse Shot, Long Shot Taker (AI), Playmaker (AI), Team Player"
+1684,213654,G. Kamara,Glen Adjei Kamara,25,10/28/95,183,73,Finland,1334.0,Right,Lean (170-185),Team Player
+1690,213928,E. Sobol,Eduard Sobol,26,4/20/95,186,76,Ukraine,1366.0,Left,Lean (185+),Long Shot Taker (AI)
+1727,219466,B. Meling,Birger Solberg Meling,26,12/17/94,174,64,Norway,1352.0,Left,Lean (170-185),
+1736,220710,H. Wilson,Harry Wilson,24,3/22/97,173,70,Wales,1367.0,Left,Normal (170-185),"Long Shot Taker (AI), Outside Foot Shot"
+1739,220948,S. Sydorchuk,Serhiy Sydorchuk,30,5/2/91,189,80,Ukraine,1366.0,Right,Normal (185+),"Leadership, Team Player"
+1747,221422,S. Ingason,Sverrir Ingi Ingason,27,8/5/93,188,83,Iceland,1341.0,Right,Normal (185+),
+1749,221445,Wu Lei,武磊,29,11/19/91,174,66,China PR,1413.0,Right,Lean (170-185),"Solid Player, Team Player"
+1759,223058,D. Kuzyaev,Daler Kuzyaev,28,1/15/93,182,74,Russia,1357.0,Right,Lean (170-185),Team Player
+1763,223671,S. Posch,Stefan Posch,24,5/14/97,189,82,Austria,1322.0,Right,Lean (185+),
+1766,223922,A. Bouchalakis,Andreas Bouchalakis,28,4/5/93,186,79,Greece,1338.0,Left,Normal (185+),"Long Passer (AI), Long Shot Taker (AI), Outside Foot Shot"
+1770,224258,K. Ajer,Kristoffer Vassbakk Ajer,23,4/17/98,196,94,Norway,1352.0,Right,Normal (185+),"Injury Prone, Dives Into Tackles (AI)"
+1777,225147,C. Roberts,Connor Roberts,25,9/23/95,175,76,Wales,1367.0,Right,Normal (170-185),Long Throw-in
+1789,226045,J. Gallardo,Jesús Daniel Gallardo Vasconcelos,26,8/15/94,176,73,Mexico,1386.0,Left,Normal (170-185),Speed Dribbler (AI)
+1798,226777,C. Larin,Cyle Christopher Larin,26,4/17/95,188,90,Canada,111455.0,Right,Normal (185+),Solid Player
+1803,228279,J. Drommel,Joël Drommel,24,11/16/96,193,90,Netherlands,105035.0,Right,Normal (185+),"GK Long Throw, Rushes Out Of Goal, Comes For Crosses"
+1805,228675,D. Barinov,Dmitriy Barinov,24,9/11/96,179,72,Russia,1357.0,Right,Stocky (170-185),Team Player
+1817,229980,C. Montes,César Jasib Montes Castro,24,2/24/97,191,70,Mexico,1386.0,Right,Normal (185+),"Injury Prone, Long Passer (AI), Power Header"
+1854,231836,J. Karlsson,Karl Jesper Karlsson,22,7/25/98,171,70,Sweden,1363.0,Right,Lean (170-185),"Finesse Shot, Flair, Long Shot Taker (AI), Technical Dribbler (AI)"
+1862,233267,M. Turner,Matthew Charles Turner,27,6/24/94,191,88,United States,1387.0,Right,Lean (185+),"Leadership, Comes For Crosses, Saves with Feet"
+1868,234111,D. Turnbull,David Turnbull,21,7/10/99,185,75,Scotland,1359.0,Right,Lean (185+),"Long Shot Taker (AI), Playmaker (AI)"
+1875,235389,C. Rodríguez,Carlos Alberto Rodríguez Gómez,24,1/3/97,176,66,Mexico,1386.0,Right,Lean (170-185),"Playmaker (AI), Technical Dribbler (AI)"
+1889,236899,A. Sobolev,Aleksandr Sobolev,24,3/7/97,195,85,Russia,1357.0,Right,Lean (185+),
+1891,237221,J. Foyth,Juan Marcos Foyth,23,1/12/98,187,69,Argentina,1369.0,Right,Lean (185+),Dives Into Tackles (AI)
+1934,244385,G. Bushchan,Georgiy Bushchan,27,5/31/94,196,84,Ukraine,1366.0,Right,Normal (185+),"Long Passer (AI), GK Long Throw, Comes For Crosses"
+1943,247028,A. Král,Alex Král,23,5/19/98,186,76,Czech Republic,1330.0,Right,Lean (185+),
+1950,251805,J. Timber,Jurriën David Norman Timber,20,6/17/01,179,77,Netherlands,105035.0,Right,Normal (170-185),
+1956,253170,A. Szalai,Attila Szalai,23,1/20/98,192,83,Hungary,1886.0,Left,Normal (185+),Long Passer (AI)
+1962,256790,J. Musiala,Jamal Musiala,18,2/26/03,180,68,Germany,1337.0,Right,Lean (170-185),Technical Dribbler (AI)
+1976,169324,A. Ulmer,Andreas Ulmer,35,10/30/85,175,73,Austria,1322.0,Left,Normal (170-185),"Solid Player, Leadership, Early Crosser, Long Shot Taker (AI), Team Player"
+1978,170084,W. Hennessey,Wayne Robert Hennessey,34,1/24/87,198,90,Wales,1367.0,Right,Lean (185+),"Rushes Out Of Goal, Comes For Crosses"
+1988,181481,D. Vukovic,Daniel Vuković,36,3/27/85,187,95,Australia,1415.0,Right,Stocky (185+),Cautious With Crosses
+2024,190459,A. Hansen,André Hansen,31,12/17/89,189,87,Norway,1352.0,Right,Normal (185+),"Leadership, GK Long Throw, Team Player"
+2033,192546,E. Stevens,Enda Stevens,30,7/9/90,183,78,Republic of Ireland,1355.0,Left,Normal (170-185),"Solid Player, Early Crosser"
+2044,193849,C. Hourihane,Conor Hourihane,30,2/2/91,180,62,Republic of Ireland,1355.0,Left,Lean (170-185),"Solid Player, Playmaker (AI)"
+2055,198331,M. Vydra,Matěj Vydra,29,5/1/92,180,71,Czech Republic,1330.0,Right,Normal (170-185),
+2059,199060,G. Tzavellas,Georgios Tzavellas,33,11/26/87,183,77,Greece,1338.0,Left,Normal (170-185),"Dives Into Tackles (AI), Leadership, Long Passer (AI)"
+2065,199909,P. Pervan,Pavao Pervan,33,11/13/87,194,92,Austria,1322.0,Right,Normal (185+),
+2068,200478,J. Hendrick,Jeff Patrick Hendrick,29,1/31/92,185,79,Republic of Ireland,1355.0,Right,Normal (185+),Outside Foot Shot
+2072,201269,F. Rønnow,Frederik Riis Rønnow,28,8/4/92,190,80,Denmark,1331.0,Right,Lean (185+),Rushes Out Of Goal
+2104,206414,S. Kryvtsov,Sergiy Kryvtsov,30,3/15/91,186,83,Ukraine,1366.0,Right,Normal (185+),Solid Player
+2106,207555,F. Helander,Filip Viktor Helander,28,4/22/93,192,84,Sweden,1363.0,Left,Normal (185+),Power Header
+2111,207998,D. Ward,Danny Ward,28,6/22/93,191,88,Wales,1367.0,Right,Normal (185+),
+2113,208451,R. Quaison,Robin Kwamina Quaison,27,10/9/93,183,77,Sweden,1363.0,Right,Normal (170-185),Technical Dribbler (AI)
+2131,211408,K. Linetty,Karol Linetty,26,2/2/95,176,73,Poland,1353.0,Right,Normal (170-185),Long Shot Taker (AI)
+2137,212591,W. Zimmerman,Walker Dwain Zimmerman,28,5/19/93,191,89,United States,1387.0,Right,Normal (185+),Injury Prone
+2141,213884,R. Christie,Ryan Christie,26,2/12/95,178,71,Scotland,1359.0,Left,Lean (170-185),"Finesse Shot, Long Shot Taker (AI), Technical Dribbler (AI)"
+2154,215522,A. Schlager,Alexander Schlager,25,2/1/96,184,77,Austria,1322.0,Right,Normal (170-185),Saves with Feet
+2163,216627,K. Moore,Kieffer Roberto Francisco Moore,28,8/8/92,196,83,Wales,1367.0,Right,Normal (185+),"Flair, Power Header"
+2170,219409,V. Karavaev,Vyacheslav Karavaev,26,5/20/95,175,70,Russia,1357.0,Right,Lean (170-185),Solid Player
+2181,220763,R. Thomas,Ryan Jared Thomas,26,12/20/94,174,64,New Zealand,111473.0,Right,Normal (170-185),Technical Dribbler (AI)
+2224,226568,I. Hagi,Ianis Hagi,22,10/22/98,182,72,Romania,1356.0,Right,Normal (170-185),"Flair, Long Shot Taker (AI), Playmaker (AI)"
+2225,226592,J. Jankto,Jakub Jankto,25,1/19/96,180,74,Czech Republic,1330.0,Left,Lean (170-185),Speed Dribbler (AI)
+2238,229723,M. Jensen,Mathias Jensen,25,1/1/96,180,68,Denmark,1331.0,Right,Lean (170-185),"Long Passer (AI), Playmaker (AI)"
+2297,232223,K. Tsimikas,Konstantinos Tsimikas,25,5/12/96,179,68,Greece,1338.0,Left,Normal (170-185),Speed Dribbler (AI)
+2305,233290,R. Zhemaletdinov,Rifat Zhemaletdinov,24,9/20/96,184,80,Russia,1357.0,Right,Normal (170-185),Speed Dribbler (AI)
+2307,233934,A. Ramsdale,Aaron Ramsdale,23,5/14/98,188,77,England,1318.0,Right,Lean (185+),"Solid Player, Comes For Crosses"
+2323,235813,R. Marin,Răzvan Gabriel Marin,25,5/23/96,178,75,Romania,1356.0,Right,Normal (170-185),Long Shot Taker (AI)
+2332,236457,D. Giannoulis,Dimitris Giannoulis,25,10/17/95,178,71,Greece,1338.0,Left,Lean (170-185),"Early Crosser, Speed Dribbler (AI)"
+2349,237997,U. Antuna,Carlos Uriel Antuna Romero,23,8/21/97,174,59,Mexico,1386.0,Right,Lean (170-185),Speed Dribbler (AI)
+2363,239978,D. Man,Dennis Man,22,8/26/98,183,82,Romania,1356.0,Left,Lean (170-185),"Finesse Shot, Technical Dribbler (AI)"
+2372,241496,T. Weah,Timothy Tarpeh Weah,21,2/22/00,183,66,United States,1387.0,Right,Lean (170-185),"Flair, Outside Foot Shot"
+2391,244700,Y. Dyupin,Yuriy Dyupin,33,3/17/88,187,84,Russia,1357.0,Right,Normal (185+),
+2414,253002,G. Raspadori,Giacomo Raspadori,21,2/18/00,172,69,Italy,1343.0,Right,Normal (170-185),"Flair, Technical Dribbler (AI)"
+2422,255687,D. Zima,David Zima,20,11/8/00,190,80,Czech Republic,1330.0,Right,Normal (185+),
+2424,256948,C. Tzolis,Christos Tzolis,19,1/30/02,179,73,Greece,1338.0,Right,Normal (170-185),Speed Dribbler (AI)
+2427,263286,A. Mandous,Aleš Mandous,29,4/21/92,188,85,Czech Republic,1330.0,Right,Normal (185+),
+2466,177273,J. Domínguez,Julio César Domínguez Juárez,33,11/8/87,177,70,Mexico,1386.0,Right,Normal (170-185),"Leadership, Team Player"
+2473,178287,S. Arfield,Scott Harry Nathaniel Arfield,32,11/1/88,179,80,Canada,111455.0,Right,Normal (170-185),"Solid Player, Team Player"
+2499,187533,A. Ionov,Aleksey Ionov,32,2/18/89,177,69,Russia,1357.0,Right,Lean (170-185),Speed Dribbler (AI)
+2511,190120,K. Johnsson,Karl-Johan Anton Johnsson,31,1/28/90,189,84,Sweden,1363.0,Right,Normal (185+),Saves with Feet
+2515,190547,K. Glik,Kamil Jacek Glik,33,2/3/88,190,80,Poland,1353.0,Right,Normal (185+),"Dives Into Tackles (AI), Power Header"
+2552,194665,S. Ilsanker,Stefan Ilsanker,32,5/18/89,190,83,Austria,1322.0,Right,Normal (185+),"Long Throw-in, Dives Into Tackles (AI)"
+2558,195586,A. Finnbogason,Alfreð Finnbogason,32,2/1/89,184,80,Iceland,1341.0,Right,Normal (170-185),"Injury Prone, Finesse Shot"
+2573,199763,B. Bereszyński,Bartosz Bereszyński,28,7/12/92,183,77,Poland,1353.0,Right,Normal (170-185),
+2590,201884,R. Brady,Robbie Brady,29,1/14/92,176,69,Republic of Ireland,1355.0,Left,Normal (170-185),"Injury Prone, Early Crosser, Technical Dribbler (AI)"
+2592,201943,A. Cornelius,Andreas Evald Cornelius,28,3/16/93,193,91,Denmark,1331.0,Left,Normal (185+),Power Header
+2601,204121,J. Brabec,Jakub Brabec,28,8/6/92,187,77,Czech Republic,1330.0,Right,Normal (185+),"Solid Player, Long Passer (AI)"
+2620,205943,V. Chiricheș,Vlad Iulian Chiricheș,31,11/14/89,184,75,Romania,1356.0,Right,Lean (170-185),"Injury Prone, Long Shot Taker (AI)"
+2627,206469,T. Fountas,Taxiarchis Fountas,25,9/4/95,170,65,Greece,1338.0,Right,Lean (170-),"Finesse Shot, Long Shot Taker (AI), Speed Dribbler (AI)"
+2628,206518,C. Robinson,Callum Robinson,26,2/2/95,178,75,Republic of Ireland,1355.0,Right,Lean (170-185),
+2629,206544,R. Bezus,Roman Bezus,30,9/26/90,185,82,Ukraine,1366.0,Right,Normal (185+),"Flair, Long Shot Taker (AI), Playmaker (AI), Technical Dribbler (AI)"
+2634,207593,J. Uronen,Jere Juhani Uronen,26,7/13/94,177,69,Finland,1334.0,Left,Normal (170-185),"Power Free-Kick, Early Crosser"
+2635,207650,E. Krafth,Emil Henry Kristoffer Krafth,26,8/2/94,184,83,Sweden,1363.0,Right,Normal (170-185),Long Throw-in
+2645,208440,M. Danielson,Marcus Andreas Danielsson,32,4/8/89,192,80,Sweden,1363.0,Right,Lean (185+),Leadership
+2647,208522,H. Magnússon,Hörður Björgvin Magnússon,28,2/11/93,190,81,Iceland,1341.0,Left,Normal (185+),"Long Passer (AI), Giant Throw-in"
+2663,210489,L. Schaub,Louis Schaub,26,12/29/94,177,70,Austria,1322.0,Left,Lean (170-185),"Finesse Shot, Technical Dribbler (AI)"
+2666,210697,C. Nørgaard,Christian Thers Nørgaard,27,3/10/94,187,77,Denmark,1331.0,Right,Lean (185+),
+2667,210802,J. Nilsson,Jörgen Joakim Nilsson,27,2/6/94,185,78,Sweden,1363.0,Left,Normal (185+),
+2685,212478,G. Zardes,Gyasi Zardes,29,9/2/91,188,80,United States,1387.0,Right,Lean (185+),
+2686,212722,D. Yedlin,DeAndre Roselle Yedlin,27,7/9/93,172,75,United States,1387.0,Right,Normal (170-185),
+2692,213095,L. Cavallini,Lucas Daniel Cavallini,28,12/28/92,182,89,Canada,111455.0,Left,Stocky (170-185),"Flair, Power Header, Outside Foot Shot, Technical Dribbler (AI)"
+2695,213536,M. Crépeau,Maxime Crépeau,27,5/11/94,180,88,Canada,111455.0,Right,Stocky (170-185),"Injury Prone, Long Passer (AI), Team Player, Rushes Out Of Goal, Comes For Crosses, Saves with Feet"
+2699,213750,K. Sema,Ken Nlata Sema,27,9/30/93,180,69,Sweden,1363.0,Left,Stocky (170-185),Speed Dribbler (AI)
+2738,216464,A. Browne,Alan James Browne,26,4/15/95,173,71,Republic of Ireland,1355.0,Right,Normal (170-185),Leadership
+2746,217714,P. Arriola,Paul Joseph Arriola Hendricks,26,2/5/95,168,66,United States,1387.0,Right,Normal (170-),
+2753,219293,M. Helik,Michał Helik,25,9/9/95,191,80,Poland,1353.0,Right,Lean (185+),"Dives Into Tackles (AI), Long Passer (AI), Power Header"
+2756,220165,J. Pohjanpalo,Joel Julius Ilmari Pohjanpalo,26,9/13/94,186,83,Finland,1334.0,Right,Normal (185+),Power Header
+2767,221610,D. Dibusz,Dénes Dibusz,30,11/16/90,188,81,Hungary,1886.0,Right,Normal (185+),"Team Player, Comes For Crosses"
+2772,222227,P. Berg,Patrick Berg,23,11/24/97,180,76,Norway,1352.0,Right,Normal (170-185),"Leadership, Playmaker (AI), Outside Foot Shot"
+2774,222475,M. Thorsby,Morten Thorsby,25,5/5/96,189,79,Norway,1352.0,Right,Normal (185+),Dives Into Tackles (AI)
+2792,224301,K. Świderski,Karol Świderski,24,1/23/97,184,78,Poland,1353.0,Left,Normal (170-185),
+2799,224599,Yan Junling,颜骏凌,30,1/28/91,191,83,China PR,1413.0,Right,Normal (185+),"Solid Player, Team Player"
+2833,228312,R. Lod,Robin Lod,28,4/17/93,181,82,Finland,1334.0,Left,Stocky (170-185),
+2842,228815,T. Roberts,Tyler Roberts,22,1/12/99,180,75,Wales,1367.0,Right,Normal (170-185),Injury Prone
+2844,228946,M. Svanberg,Mattias Olof Svanberg,22,1/5/99,185,77,Sweden,1363.0,Right,Normal (185+),Technical Dribbler (AI)
+2848,229188,V. Pavlidis,Vangelis Pavlidis,22,11/21/98,186,82,Greece,1338.0,Right,Normal (185+),"Finesse Shot, Outside Foot Shot"
+2850,229348,A. Robinson,Antonee Robinson,23,8/8/97,183,70,United States,1387.0,Left,Lean (170-185),"Long Throw-in, Speed Dribbler (AI)"
+2852,229528,M. Matvienko,Mykola Matvienko,25,5/2/96,181,76,Ukraine,1366.0,Left,Normal (170-185),Solid Player
+2854,229585,M. Degenek,Miloš Degenek,27,4/28/94,187,82,Australia,1415.0,Right,Normal (185+),Dives Into Tackles (AI)
+2901,231292,J. Lewis,Jamal Lewis,23,1/25/98,178,70,Northern Ireland,110081.0,Left,Lean (170-185),Early Crosser
+2903,231493,L. Kleinheisler,László Kleinheisler,27,4/8/94,173,70,Hungary,1886.0,Right,Normal (170-185),"Long Shot Taker (AI), Speed Dribbler (AI)"
+2915,233260,A. Vega,Ernesto Alexis Vega Rojas,23,11/25/97,173,77,Mexico,1386.0,Right,Normal (170-185),"Finesse Shot, Long Shot Taker (AI), Playmaker (AI)"
+2934,234986,P. Retsos,Panagiotis Retsos,22,8/9/98,186,79,Greece,1338.0,Right,Lean (185+),
+2946,235663,G. Til,Guus Berend Til,23,12/22/97,186,78,Netherlands,105035.0,Right,Normal (185+),
+2964,236703,D. Raum,David Raum,23,4/22/98,180,75,Germany,1337.0,Left,Normal (170-185),Long Passer (AI)
+2968,237000,R. Cannon,Reggie Jacob Cannon,23,6/11/98,180,75,United States,1387.0,Right,Normal (170-185),Early Crosser
+2969,237109,O. Karavaev,Oleksandr Karavaev,29,6/2/92,175,71,Ukraine,1366.0,Right,Normal (170-185),Outside Foot Shot
+3014,242000,K. Mavropanos,Konstantinos Mavropanos,23,12/11/97,194,89,Greece,1338.0,Right,Normal (185+),"Injury Prone, Dives Into Tackles (AI)"
+3020,243001,A. Cicâldău,Alexandru Cicâldău,23,7/8/97,178,76,Romania,1356.0,Right,Normal (170-185),"Long Shot Taker (AI), Playmaker (AI)"
+3038,245703,I. Diveev,Igor Diveev,21,9/27/99,193,85,Russia,1357.0,Right,Normal (185+),Long Passer (AI)
+3055,247819,N. Schlotterbeck,Nico Schlotterbeck,21,12/1/99,191,86,Germany,1337.0,Left,Normal (185+),
+3078,255420,E. Kara,Ercan Kara,25,1/3/96,192,89,Austria,1322.0,Right,Normal (185+),Solid Player
+3117,172553,J. Lössl,Jonas Bybjerg Lössl,32,2/1/89,195,89,Denmark,1331.0,Right,Normal (185+),"Rushes Out Of Goal, Comes For Crosses"
+3119,176285,W. Reid,Winston Wiremu Reid,32,7/3/88,190,87,New Zealand,111473.0,Right,Normal (185+),"Injury Prone, Team Player"
+3131,180706,C. Cathcart,Craig George Cathcart,32,2/6/89,190,83,Northern Ireland,110081.0,Right,Lean (185+),Injury Prone
+3148,184290,T. Pekhart,Tomáš Pekhart,32,5/26/89,196,89,Czech Republic,1330.0,Right,Lean (185+),Power Header
+3169,188537,L. Négo,Loïc Négo,30,1/15/91,181,71,Hungary,1886.0,Right,Lean (170-185),
+3175,189462,J. Hoilett,David Junior Hoilett,31,6/5/90,173,70,Canada,111455.0,Right,Normal (170-185),"Flair, Technical Dribbler (AI)"
+3185,190640,V. Pálsson,Guðlaugur Victor Pálsson,30,4/30/91,186,82,Iceland,1341.0,Right,Normal (185+),"Dives Into Tackles (AI), Long Shot Taker (AI), Power Header"
+3190,191058,Camora,Mário Jorge Malico Paulino,34,11/10/86,177,69,Romania,1356.0,Left,Lean (170-185),"Long Throw-in, Leadership, Early Crosser, Team Player"
+3194,192241,R. Grant,Rhyan Bert Grant,30,2/26/91,176,79,Australia,1415.0,Right,Normal (170-185),"Dives Into Tackles (AI), Team Player"
+3201,192622,S. Duffy,Shane Patrick Michael Duffy,29,1/1/92,193,76,Republic of Ireland,1355.0,Right,Normal (185+),"Power Header, Team Player"
+3241,199000,T. Sainsbury,Trent Lucas Sainsbury,29,1/5/92,183,76,Australia,1415.0,Right,Normal (170-185),
+3260,199904,J. Joronen,Jesse Pekka Joronen,28,3/21/93,197,89,Finland,1334.0,Right,Normal (185+),"GK Long Throw, Cautious With Crosses"
+3261,200108,N. Boilesen,Nicolai Møller Boilesen,29,2/16/92,186,75,Denmark,1331.0,Left,Normal (185+),"Injury Prone, Leadership"
+3270,201122,T. Kalas,Tomáš Kalas,28,5/15/93,184,86,Czech Republic,1330.0,Right,Normal (170-185),Dives Into Tackles (AI)
+3272,201447,S. Lletget,Sebastian Francisco Lletget,28,9/3/92,178,75,United States,1387.0,Right,Normal (170-185),"Finesse Shot, Flair"
+3307,205478,M. Krmenčík,Michael Krmenčík,28,3/15/93,190,85,Czech Republic,1330.0,Right,Normal (185+),Power Header
+3328,207928,T. Rogić,Tomas Petar Rogić,28,12/16/92,189,88,Australia,1415.0,Left,Normal (185+),"Injury Prone, Playmaker (AI)"
+3358,211592,A. Semenov,Andrey Semenov,32,3/24/89,190,86,Russia,1357.0,Right,Normal (185+),"Solid Player, Long Passer (AI)"
+3379,213439,J. Osorio,Jonathan Osorio,29,6/12/92,175,73,Canada,111455.0,Right,Normal (170-185),"Flair, Team Player, Technical Dribbler (AI)"
+3383,213697,P. McNair,Patrick James Coleman McNair,26,4/27/95,183,72,Northern Ireland,110081.0,Right,Normal (170-185),Power Free-Kick
+3410,215565,M. Miazga,Matthew Miazga,25,7/19/95,193,84,United States,1387.0,Right,Normal (185+),
+3418,216275,P. Mwene,Phillipp Mwene,27,1/29/94,172,68,Austria,1322.0,Right,Normal (170-185),
+3431,218744,J. Byrne,Jack Byrne,25,4/24/96,175,73,Republic of Ireland,1355.0,Right,Lean (170-185),"Power Free-Kick, Early Crosser, Flair, Playmaker (AI), Technical Dribbler (AI)"
+3496,224438,A. Buksa,Adam Buksa,24,7/12/96,191,77,Poland,1353.0,Left,Lean (185+),
+3508,225614,I. Akhmetov,Ilzat Akhmetov,23,12/31/97,173,67,Russia,1357.0,Right,Normal (170-185),Technical Dribbler (AI)
+3545,229091,B. Peacock-Farrell,Bailey Peacock-Farrell,24,10/29/96,192,73,Northern Ireland,110081.0,Left,Stocky (185+),
+3550,229266,J. Rodon,Joe Rodon,23,10/22/97,193,76,Wales,1367.0,Right,Lean (185+),
+3607,230718,E. Botka,Endre Botka,26,8/25/94,178,77,Hungary,1886.0,Right,Normal (170-185),"Injury Prone, Team Player"
+3639,233201,C. Mepham,Christopher James Mepham,23,11/5/97,191,75,Wales,1367.0,Right,Normal (185+),Injury Prone
+3647,233800,F. Bjørkan,Fredrik André Bjørkan,22,8/21/98,177,74,Norway,1352.0,Left,Normal (170-185),
+3686,236773,M. Siopis,Emmanouil Siopis,27,5/14/94,171,67,Greece,1338.0,Right,Normal (170-185),Dives Into Tackles (AI)
+3702,239106,L. Koutris,Leonardo Pablo Koutris,25,7/23/95,170,71,Greece,1338.0,Left,Normal (170-),Early Crosser
+3716,240017,A. Olsen,Andreas Skov Olsen,21,12/29/99,188,75,Denmark,1331.0,Left,Normal (185+),"Finesse Shot, Speed Dribbler (AI)"
+3721,240225,M. Safonov,Matvey Safonov,22,2/25/99,192,82,Russia,1357.0,Right,Normal (185+),
+3722,240493,A. Paschalakis,Alexandros Paschalakis,31,7/28/89,197,92,Greece,1338.0,Right,Normal (185+),Cautious With Crosses
+3732,241522,J. Wind,Jonas Older Wind,22,2/7/99,190,82,Denmark,1331.0,Right,Normal (185+),"Flair, Playmaker (AI)"
+3740,242429,L. Cacace,Liberato Gianpaolo Cacace,20,9/27/00,184,81,New Zealand,111473.0,Left,Normal (170-185),"Long Throw-in, Speed Dribbler (AI)"
+3742,242725,K. Thorstvedt,Kristian Thorstvedt,22,3/13/99,189,84,Norway,1352.0,Left,Normal (185+),"Dives Into Tackles (AI), Finesse Shot, Long Passer (AI)"
+3752,244472,J. Cajuste,Jens-Lys Michel Cajuste,21,8/10/99,188,77,Sweden,1363.0,Right,Normal (185+),Long Throw-in
+3779,250753,A. Trubin,Anatoliy Trubin,19,8/1/01,198,91,Ukraine,1366.0,Right,Normal (185+),Saves with Feet
+3814,258308,O. Tymchyk,Oleksandr Tymchyk,24,1/20/97,180,67,Ukraine,1366.0,Right,Lean (170-185),
+3819,258781,I. Zabarnyi,Illia Zabarnyi,18,9/1/02,186,81,Ukraine,1366.0,Right,Normal (185+),
+3824,261529,D. Fomin,Daniil Fomin,24,3/2/97,187,78,Russia,1357.0,Right,Lean (185+),
+3861,176237,J. Altidore,Jozy Altidore,31,11/6/89,183,79,United States,1387.0,Right,Normal (170-185),Injury Prone
+3876,181795,F. Kudryashov,Fedor Kudryashov,34,4/5/87,181,81,Russia,1357.0,Left,Normal (170-185),Early Crosser
+3878,182224,Wang Dalei,王大雷,32,1/10/89,185,75,China PR,1413.0,Right,Normal (185+),"Leadership, Long Passer (AI), GK Long Throw, Rushes Out Of Goal"
+3880,182343,Hao Junmin,蒿俊闵,34,3/24/87,181,71,China PR,1413.0,Right,Normal (170-185),"Leadership, Team Player"
+3890,184477,K. Papadopoulos,Kyriakos Papadopoulos,29,2/23/92,185,87,Greece,1338.0,Right,Stocky (185+),"Injury Prone, Dives Into Tackles (AI), Power Header"
+3892,184789,Á. Szalai,Ádám Szalai,33,12/9/87,193,93,Hungary,1886.0,Right,Stocky (185+),Leadership
+3895,185427,Ø. Nyland,Ørjan Håskjold Nyland,30,9/10/90,192,90,Norway,1352.0,Right,Normal (185+),"GK Long Throw, Comes For Crosses"
+3922,190697,S. Strandberg,Ken Remi Stefan Strandberg,30,7/25/90,189,80,Norway,1352.0,Right,Normal (185+),"Injury Prone, Team Player"
+3943,194146,K. Long,Kevin Long,30,8/18/90,190,82,Republic of Ireland,1355.0,Right,Normal (185+),Team Player
+3978,200332,T. Koubek,Tomáš Koubek,28,8/26/92,197,95,Czech Republic,1330.0,Right,Normal (185+),Comes For Crosses
+3982,200672,Zhang Linpeng,张琳芃,32,5/9/89,185,80,China PR,1413.0,Right,Normal (185+),"Long Throw-in, Dives Into Tackles (AI), Team Player"
+3984,200715,A. Davies,Adam Rhys Davies,28,7/17/92,185,80,Wales,1367.0,Right,Normal (185+),Cautious With Crosses
+3986,200778,C. Christie,Cyrus Sylvester Frederick Christie,28,9/30/92,188,78,Republic of Ireland,1355.0,Right,Normal (185+),"Solid Player, Early Crosser"
+4030,204412,G. Saville,George Alan Saville,28,6/1/93,182,73,Northern Ireland,110081.0,Left,Lean (170-185),
+4083,211221,M. Boyle,Martin Callie Boyle,28,4/25/93,172,70,Australia,1415.0,Right,Lean (170-185),"Long Shot Taker (AI), Speed Dribbler (AI)"
+4108,213092,S. Piette,Samuel Piette,26,11/12/94,171,79,Canada,111455.0,Right,Stocky (170-185),"Solid Player, Leadership, Team Player"
+4162,219736,E. Horvath,Ethan Shea Horvath,26,6/9/95,195,83,United States,1387.0,Right,Normal (185+),Cautious With Crosses
+4188,220925,A. Schöpf,Alessandro Schöpf,27,2/7/94,178,74,Austria,1322.0,Right,Lean (170-185),
+4238,225317,K. Nisbet,Kevin Nisbet,24,3/8/97,180,77,Scotland,1359.0,Right,Normal (170-185),Outside Foot Shot
+4262,228518,A. Hanche-Olsen,Andreas Schjølberg Hanche-Olsen,24,1/17/97,185,82,Norway,1352.0,Right,Normal (185+),Team Player
+4282,229901,H. Souttar,Harry James Souttar,22,10/22/98,200,79,Australia,1415.0,Right,Normal (185+),"Long Passer (AI), Power Header"
+4328,232081,R. Laryea,Richie Mamah Laryea,26,1/7/95,175,70,Canada,111455.0,Right,Normal (170-185),"Long Throw-in, Speed Dribbler (AI), Technical Dribbler (AI)"
+4329,232148,D. Sallói,Dániel Sallói,24,7/19/96,185,68,Hungary,1886.0,Right,Lean (185+),Finesse Shot
+4378,234889,F. Jensen,Hans Fredrik Jensen,23,9/9/97,183,78,Finland,1334.0,Right,Normal (170-185),
+4390,235973,S. Szymański,Sebastian Szymański,22,5/10/99,174,60,Poland,1353.0,Left,Lean (170-185),"Long Shot Taker (AI), Technical Dribbler (AI)"
+4403,237055,O. Zubkov,Oleksandr Zubkov,24,8/3/96,182,71,Ukraine,1366.0,Left,Normal (170-185),"Power Free-Kick, Flair, Long Shot Taker (AI), Technical Dribbler (AI)"
+4417,238004,A. Guðmundsson,Albert Guðmundsson,24,6/15/97,177,80,Iceland,1341.0,Right,Normal (170-185),"Flair, Outside Foot Shot, Technical Dribbler (AI)"
+4420,238196,A. Sigurðsson,Arnór Sigurðsson,22,5/15/99,177,75,Iceland,1341.0,Right,Lean (170-185),"Flair, Speed Dribbler (AI)"
+4423,238922,M. Kaye,Mark-Anthony Kaye,26,12/2/94,186,77,Canada,111455.0,Left,Lean (185+),Technical Dribbler (AI)
+4442,240309,Y. Makarenko,Yevhen Makarenko,30,5/21/91,184,84,Ukraine,1366.0,Left,Normal (170-185),Long Shot Taker (AI)
+4468,242075,J. Sargent,Joshua Thomas Sargent,21,2/20/00,185,79,United States,1387.0,Right,Normal (185+),
+4502,244287,M. Vrousai,Marios Vrousai,22,7/2/98,183,78,Greece,1338.0,Right,Normal (170-185),"Speed Dribbler (AI), Outside Foot Shot"
+4547,251852,K. Adeyemi,Karim-David Adeyemi,19,1/18/02,177,69,Germany,1337.0,Left,Normal (170-185),"Flair, Speed Dribbler (AI), Chip Shot (AI)"
+4560,253177,Y. Musah,Yunus Dimoara Musah,18,11/29/02,178,73,United States,1387.0,Right,Normal (170-185),
+4652,184716,J. Allen,Joseph Michael Allen,31,3/14/90,168,62,Wales,1367.0,Right,Lean (170-),Injury Prone
+4713,194662,A. Zabolotnyi,Anton Zabolotnyi,30,6/13/91,191,90,Russia,1357.0,Right,Normal (185+),Power Header
+4723,197971,D. Alibec,Denis Alibec,30,1/5/91,187,88,Romania,1356.0,Left,Normal (185+),Flair
+4762,201208,D. Henry,Doneil Jor-Dee Ashley Henry,28,4/20/93,188,88,Canada,111455.0,Right,Stocky (185+),Injury Prone
+4765,201549,N. Nikolić,Nemanja Nikolić,33,12/31/87,180,76,Hungary,1886.0,Right,Normal (170-185),Leadership
+4775,202676,A. Taggart,Adam Jake Taggart,28,6/2/93,183,69,Australia,1415.0,Right,Normal (170-185),"Injury Prone, Finesse Shot"
+4787,203929,J. Fjóluson,Jón Guðni Fjóluson,32,4/10/89,193,85,Iceland,1341.0,Left,Normal (185+),"Long Throw-in, Long Passer (AI), Power Header"
+4829,209532,D. Bachmann,Daniel Bachmann,26,7/9/94,191,81,Austria,1322.0,Right,Normal (185+),Comes For Crosses
+4834,210129,G. Lovrencsics,Gergő Lovrencsics,32,9/1/88,177,75,Hungary,1886.0,Right,Lean (170-185),"Long Shot Taker (AI), Speed Dribbler (AI)"
+4846,211177,A. Traustason,Arnór Ingvi Traustason,28,4/30/93,183,75,Iceland,1341.0,Right,Normal (170-185),"Long Shot Taker (AI), Technical Dribbler (AI)"
+4863,212454,C. O'Dowda,Callum O'Dowda,26,4/23/95,180,75,Republic of Ireland,1355.0,Left,Lean (170-185),"Injury Prone, Technical Dribbler (AI)"
+4881,213763,R. Schüller,Rasmus Schüller,30,6/18/91,177,67,Finland,1334.0,Left,Lean (170-185),
+4954,221553,V. Kjartansson,Viðar Örn Kjartansson,31,3/11/90,187,80,Iceland,1341.0,Right,Normal (185+),"Solid Player, Finesse Shot"
+4963,222562,R. Rúnarsson,Rúnar Alex Rúnarsson,26,2/18/95,186,76,Iceland,1341.0,Right,Lean (185+),Comes For Crosses
+5024,226508,G. Taylor,Greg John Taylor,23,11/5/97,175,68,Scotland,1359.0,Left,Normal (170-185),Early Crosser
+5098,230936,Á. Nagy,Ádám Nagy,26,6/17/95,178,70,Hungary,1886.0,Right,Lean (170-185),
+5129,233222,K. Jóźwiak,Kamil Jóźwiak,23,4/22/98,176,70,Poland,1353.0,Right,Normal (170-185),Speed Dribbler (AI)
+5132,233487,R. McGree,Riley Patrick McGree,22,11/2/98,178,72,Australia,1415.0,Left,Normal (170-185),Technical Dribbler (AI)
+5134,233512,A. Toșca,Alin Dorinel Toșca,29,3/14/92,181,78,Romania,1356.0,Left,Normal (170-185),Solid Player
+5195,237286,A. Connolly,Aaron Anthony Connolly,21,1/28/00,175,73,Republic of Ireland,1355.0,Right,Stocky (170-185),
+5204,237647,A. Hrustić,Ajdin Hrustić,24,7/5/96,183,74,Australia,1415.0,Left,Lean (170-185),"Long Shot Taker (AI), Playmaker (AI)"
+5230,239778,J. Moder,Jakub Piotr Moder,22,4/7/99,188,78,Poland,1353.0,Right,Lean (185+),"Power Free-Kick, Long Shot Taker (AI)"
+5241,240282,A. Matějů,Aleš Matějů,25,6/3/96,185,80,Czech Republic,1330.0,Right,Lean (185+),Early Crosser
+5276,242614,I. Nedelcearu,Ionuț Nedelcearu,25,4/24/96,190,85,Romania,1356.0,Right,Normal (185+),
+5348,246562,D. Sorescu,Deian Cristian Sorescu,23,8/29/97,176,72,Romania,1356.0,Right,Lean (170-185),"Finesse Shot, Long Shot Taker (AI), Speed Dribbler (AI)"
+5364,247279,L. Dykes,Lyndon John Dykes,25,10/7/95,188,75,Scotland,1359.0,Right,Normal (185+),Long Throw-in
+5365,247361,B. Aaronson,Brenden Russell Aaronson,20,10/22/00,176,66,United States,1387.0,Right,Lean (170-185),
+5371,247972,D. Olaru,Darius Dumitru Olaru,23,3/3/98,177,71,Romania,1356.0,Right,Normal (170-185),"Power Free-Kick, Finesse Shot, Playmaker (AI)"
+5392,251873,Y. Demir,Yusuf Demir,18,6/2/03,173,65,Austria,1322.0,Left,Normal (170-185),Technical Dribbler (AI)
+5502,179899,A. Skúlason,Ari Freyr Skúlason,34,5/14/87,170,64,Iceland,1341.0,Left,Lean (170-),
+5507,182091,K. Barbarouses,Kosta Barbarouses,31,2/19/90,171,68,New Zealand,111473.0,Right,Lean (170-185),"Speed Dribbler (AI), Outside Foot Shot"
+5533,186562,J. Magennis,Josh Brendan David Magennis,30,8/15/90,188,92,Northern Ireland,110081.0,Right,Stocky (185+),Leadership
+5548,189167,A. Gunnarsson,Aron Einar Malmquist Gunnarsson,32,4/22/89,178,86,Iceland,1341.0,Right,Normal (170-185),"Injury Prone, Dives Into Tackles (AI), Giant Throw-in"
+5559,190491,R. Gabrielsen,Lunan Ruben Gabrielsen,29,3/10/92,187,86,Norway,1352.0,Right,Normal (185+),"Power Header, Team Player"
+5572,193092,M. Rojas,Marco Rojas,29,11/5/91,168,64,New Zealand,111473.0,Right,Normal (170-),"Flair, Technical Dribbler (AI)"
+5578,193728,D. Wotherspoon,David Wotherspoon,31,1/16/90,180,76,Canada,111455.0,Right,Normal (170-185),"Finesse Shot, Long Shot Taker (AI), Playmaker (AI), Team Player, Technical Dribbler (AI)"
+5586,194945,R. Varga,Roland Varga,31,1/23/90,182,79,Hungary,1886.0,Right,Lean (170-185),Speed Dribbler (AI)
+5602,198261,T. Ream,Timothy Michael Ream,33,10/5/87,186,80,United States,1387.0,Left,Normal (185+),"Solid Player, Leadership, Team Player"
+5604,198489,J. McClean,James Joseph McClean,32,4/22/89,180,70,Republic of Ireland,1355.0,Left,Lean (170-185),Dives Into Tackles (AI)
+5631,201707,A. Fiola,Attila Fiola,31,2/17/90,183,78,Hungary,1886.0,Right,Lean (170-185),Dives Into Tackles (AI)
+5641,202157,A. Behich,Aziz Eraltay Behich,30,12/16/90,170,63,Australia,1415.0,Left,Normal (170-),Long Throw-in
+5642,202170,M. Boxall,Michael Joseph Boxall,32,8/18/88,188,91,New Zealand,111473.0,Right,Normal (185+),
+5661,203423,L. Thomas,Lawrence Andrew Kingsley Thomas,29,5/9/92,191,91,Australia,1415.0,Right,Normal (185+),"Rushes Out Of Goal, Comes For Crosses"
+5711,208597,H. Hermannsson,Hjörtur Hermannsson,26,2/8/95,190,84,Iceland,1341.0,Right,Normal (185+),Solid Player
+5740,211363,T. Lockyer,Thomas Alun Lockyer,26,12/3/94,185,72,Wales,1367.0,Right,Normal (185+),
+5756,212830,A. Mabil,Awer Bul Mabil,25,9/15/95,179,65,Australia,1415.0,Right,Lean (170-185),Speed Dribbler (AI)
+5798,215412,C. Elder,Callum Roddie Elder,26,1/27/95,180,67,Australia,1415.0,Left,Normal (170-185),
+5813,216633,Ö. Kristinsson,Ögmundur Kristinsson,32,6/19/89,192,89,Iceland,1341.0,Right,Normal (185+),GK Long Throw
+5871,223074,D. Rotariu,Dorin Rotariu,25,7/29/95,180,72,Romania,1356.0,Left,Lean (170-185),Technical Dribbler (AI)
+5902,225203,L. Kelly,Liam Patrick Kelly,25,1/23/96,189,83,Scotland,1359.0,Right,Normal (185+),"Leadership, Comes For Crosses"
+5906,225316,J. Hendry,Jack Hendry,26,5/7/95,194,88,Scotland,1359.0,Right,Lean (185+),"Dives Into Tackles (AI), Long Shot Taker (AI)"
+6065,234987,A. Androutsos,Athanasios Androutsos,24,5/6/97,182,65,Greece,1338.0,Right,Lean (170-185),
+6194,242458,A. Dovbyk,Artem Dovbyk,24,6/21/97,184,76,Ukraine,1366.0,Left,Normal (170-185),
+6324,253077,D. Sigér,Dávid Miklós Sigér,30,11/30/90,175,70,Hungary,1886.0,Right,Lean (170-185),
+6368,258590,K. Varga,Kevin Varga,25,3/30/96,178,76,Hungary,1886.0,Right,Normal (170-185),"Long Shot Taker (AI), Speed Dribbler (AI)"
+6392,261478,A. Douvikas,Anastasios Douvikas,21,8/2/99,186,76,Greece,1338.0,Right,Lean (185+),
+6393,261579,A. Mostovoy,Andrey Mostovoy,23,11/5/97,180,77,Russia,1357.0,Right,Normal (170-185),
+6406,53110,C. Gordon,Craig Sinclair Gordon,38,12/31/82,193,83,Scotland,1359.0,Left,Normal (185+),"Leadership, GK Long Throw, Team Player"
+6517,191572,Zheng Zheng,郑铮,31,7/11/89,186,77,China PR,1413.0,Left,Lean (185+),"Long Passer (AI), Team Player"
+6533,194163,J. Raitala,Jukka Raitala,32,9/15/88,181,76,Finland,1334.0,Left,Normal (170-185),"Long Throw-in, Team Player"
+6550,198479,P. Arajuuri,Paulus Verneri Arajuuri,33,6/15/88,193,92,Finland,1334.0,Right,Normal (185+),Team Player
+6555,198810,B. Wright,Bailey Colin Wright,28,7/28/92,184,79,Australia,1415.0,Right,Normal (170-185),"Long Passer (AI), Power Header"
+6575,200741,Jiang Guangtai,蒋光太,27,5/27/94,181,76,China PR,1413.0,Right,Normal (170-185),Dives Into Tackles (AI)
+6675,209935,D. Gallagher,Declan Patrick Gallagher,30,2/13/91,196,93,Scotland,1359.0,Right,Normal (185+),"Long Throw-in, Leadership, Long Passer (AI)"
+6698,211378,J. Irvine,Jackson Alexander Irvine,28,3/7/93,189,70,Australia,1415.0,Right,Normal (185+),Playmaker (AI)
+6717,212680,J. Jones,Jordan Lewis Jones,26,10/24/94,174,61,Northern Ireland,110081.0,Right,Normal (170-185),Speed Dribbler (AI)
+6723,212992,J. Böðvarsson,Jón Daði Böðvarsson,29,5/25/92,190,85,Iceland,1341.0,Right,Normal (185+),
+6727,213106,R. Sigurjónsson,Rúnar Már Sigurlaugarson Sigurjónsson,31,6/18/90,178,83,Iceland,1341.0,Right,Normal (170-185),"Long Throw-in, Playmaker (AI)"
+6813,220028,S. Adekugbe,Samuel Ayomide Adekugbe,26,1/16/95,176,74,Canada,111455.0,Left,Normal (170-185),Speed Dribbler (AI)
+6821,220886,B. Tuiloma,Bill Tuiloma,26,3/27/95,183,79,New Zealand,111473.0,Right,Stocky (170-185),Long Throw-in
+6835,221820,Zhang Xizhe,张稀哲,30,1/23/91,180,69,China PR,1413.0,Right,Lean (170-185),"Finesse Shot, Playmaker (AI), Technical Dribbler (AI)"
+6857,223207,Á. Lang,Ádám Lang,28,1/17/93,188,83,Hungary,1886.0,Right,Normal (185+),
+6858,223229,C. Manea,Cristian Marian Manea,23,8/9/97,183,77,Romania,1356.0,Right,Normal (170-185),"Long Throw-in, Early Crosser"
+6888,224604,Wang Shenchao,王燊超,32,2/8/89,180,72,China PR,1413.0,Right,Lean (170-185),Team Player
+6889,224702,Liu Dianzuo,刘殿座,31,6/26/90,190,81,China PR,1413.0,Right,Normal (185+),
+6985,231056,S. Marinović,Stefan Marinović,29,10/7/91,191,95,New Zealand,111473.0,Right,Normal (185+),GK Long Throw
+7066,235735,E. Ampadu,Ethan Ampadu,20,9/14/00,183,78,Wales,1367.0,Right,Lean (170-185),Dives Into Tackles (AI)
+7106,237511,A. Sampsted,Alfons Sampsted,23,4/6/98,180,72,Iceland,1341.0,Right,Lean (170-185),
+7130,238662,T. Puchacz,Tymoteusz Puchacz,22,1/23/99,180,74,Poland,1353.0,Left,Normal (170-185),"Dives Into Tackles (AI), Long Shot Taker (AI), Speed Dribbler (AI)"
+7171,240773,R. Norrington-Davies,Rhys Llewelyn Norrington-Davies,22,4/22/99,181,70,Wales,1367.0,Left,Normal (170-185),
+7182,241523,M. Forss,Marcus Forss,22,6/18/99,182,76,Finland,1334.0,Right,Lean (170-185),Speed Dribbler (AI)
+7211,242845,D. Nedelcu,Dragoș Ionuț Nedelcu,24,2/16/97,189,78,Romania,1356.0,Right,Lean (185+),"Injury Prone, Long Passer (AI), Long Shot Taker (AI)"
+7212,243057,N. Williams,Neco Williams,20,4/13/01,183,72,Wales,1367.0,Right,Lean (170-185),
+7218,243473,F. Karačić,Fran Karačić,25,5/12/96,185,75,Australia,1415.0,Right,Normal (185+),
+7221,243574,Z. Brault-Guillard,Zachary Brault-Guillard,22,12/30/98,171,65,Canada,111455.0,Right,Stocky (170-185),Speed Dribbler (AI)
+7316,251236,A. Cordea,Andrei Ioan Cordea,22,6/24/99,180,75,Romania,1356.0,Left,Normal (170-185),"Finesse Shot, Flair, Speed Dribbler (AI)"
+7335,252508,K. Kozłowski,Kacper Kozłowski,17,10/16/03,178,68,Poland,1353.0,Right,Normal (170-185),"Outside Foot Shot, Technical Dribbler (AI)"
+7369,254142,J. Bell,Joe Zen Robert Bell,22,4/27/99,182,77,New Zealand,111473.0,Right,Normal (170-185),Playmaker (AI)
+7491,163201,M. McGovern,Michael McGovern,36,7/12/84,191,89,Northern Ireland,110081.0,Right,Normal (185+),Team Player
+7494,164858,T. Sparv,Tim Sparv,34,2/20/87,194,84,Finland,1334.0,Left,Normal (185+),"Injury Prone, Leadership"
+7496,166844,K. Lafferty,Kyle Joseph George Lafferty,33,9/16/87,193,88,Northern Ireland,110081.0,Right,Lean (185+),"Long Shot Taker (AI), Power Header"
+7507,175789,B. Bjarnason,Birkir Bjarnason,33,5/27/88,183,77,Iceland,1341.0,Right,Normal (170-185),"Long Throw-in, Power Header"
+7577,190180,R. McGowan,Ryan James McGowan,31,8/15/89,191,75,Australia,1415.0,Right,Normal (185+),"Long Throw-in, Power Header"
+7617,198776,J. Williams,Jonathan Peter Williams,27,10/9/93,168,60,Wales,1367.0,Right,Lean (170-),"Injury Prone, Flair, Technical Dribbler (AI)"
+7620,199088,Wang Gang,王刚,32,2/17/89,188,81,China PR,1413.0,Right,Normal (185+),Speed Dribbler (AI)
+7651,201346,L. Boyce,Liam Boyce,30,4/8/91,184,75,Northern Ireland,110081.0,Right,Normal (170-185),Finesse Shot
+7674,202663,D. Horgan,Daryl Jeremiah Horgan,28,8/10/92,170,70,Republic of Ireland,1355.0,Right,Normal (170-),"Finesse Shot, Speed Dribbler (AI)"
+7691,204269,Z. Clark,Zander Clark,29,6/26/92,193,80,Scotland,1359.0,Right,Normal (185+),Cautious With Crosses
+7744,209885,M. Duke,Mitchell Thomas Duke,30,1/18/91,186,84,Australia,1415.0,Right,Normal (185+),"Speed Dribbler (AI), Team Player"
+7807,213570,S. O'Donnell,Stephen Gerard O'Donnell,29,5/11/92,183,89,Scotland,1359.0,Right,Normal (170-185),"Long Throw-in, Long Passer (AI)"
+7852,217153,Wu Xi,吴曦,32,2/19/89,180,75,China PR,1413.0,Right,Lean (170-185),"Playmaker (AI), Team Player"
+7954,225993,O. Sail,Oliver Sail,25,1/13/96,194,80,New Zealand,111473.0,Right,Normal (185+),
+7982,228033,Chi Zhongguo,池忠国,31,10/26/89,172,66,China PR,1413.0,Right,Lean (170-185),Playmaker (AI)
+8025,230136,J. Thompson,Jordan Thompson,24,1/3/97,175,65,Northern Ireland,110081.0,Left,Normal (170-185),
+8069,232284,M. Travers,Mark Travers,22,5/18/99,191,82,Republic of Ireland,1355.0,Right,Normal (185+),
+8091,232871,Gao Zhunyi,高准翼,25,8/21/95,186,79,China PR,1413.0,Right,Normal (185+),Outside Foot Shot
+8095,233105,K. Dougall,Kenneth William Dougall,28,5/7/93,184,79,Australia,1415.0,Right,Normal (170-185),
+8172,236344,J. Molumby,Jayson Patrick Molumby,21,8/6/99,176,68,Republic of Ireland,1355.0,Right,Lean (170-185),
+8251,239944,R. Taylor,Robert Thomas Taylor,26,10/21/94,182,78,Finland,1334.0,Right,Normal (170-185),Speed Dribbler (AI)
+8269,240913,C. Kelleher,Caoimhin Kelleher,22,11/23/98,188,74,Republic of Ireland,1355.0,Right,Lean (185+),
+8325,243481,M. Pedersen,Marcus Holmgren Pedersen,21,6/16/00,183,76,Norway,1352.0,Right,Lean (170-185),Speed Dribbler (AI)
+8351,244288,A. Idah,Adam Uche Idah,20,2/11/01,190,83,Republic of Ireland,1355.0,Right,Normal (185+),
+8420,248018,A. Vlad,Andrei Daniel Vlad,22,4/15/99,190,85,Romania,1356.0,Right,Lean (185+),"Rushes Out Of Goal, Cautious With Crosses, Saves with Feet"
+8591,258599,R. Ivanov,Robert Ivanov,26,9/19/94,197,85,Finland,1334.0,Right,Normal (185+),"Dives Into Tackles (AI), Long Passer (AI)"
+8680,166764,T. Carson,Trevor Carson,33,3/5/88,182,80,Northern Ireland,110081.0,Right,Normal (170-185),"Injury Prone, Comes For Crosses, Saves with Feet"
+8690,172232,J. Toivio,Joona Marko Aleksi Toivio,33,4/4/88,186,87,Finland,1334.0,Right,Normal (185+),Power Free-Kick
+8708,181343,P. Bengtsson,Pierre Thomas Robin Bengtsson,33,4/12/88,177,74,Sweden,1363.0,Left,Normal (170-185),
+8727,186135,C. Evans,Corry John Evans,30,7/30/90,180,69,Northern Ireland,110081.0,Right,Lean (170-185),Team Player
+8729,186839,N. McGinn,Niall McGinn,33,7/20/87,178,73,Northern Ireland,110081.0,Right,Normal (170-185),"Finesse Shot, Flair, Outside Foot Shot, Chip Shot (AI), Technical Dribbler (AI)"
+8773,192624,S. Ferguson,Shane Kevin Ferguson,29,7/12/91,175,66,Northern Ireland,110081.0,Left,Lean (170-185),
+8796,194785,T. Flanagan,Thomas Michael Flanagan,29,10/21/91,188,76,Northern Ireland,110081.0,Right,Lean (185+),Injury Prone
+8930,209361,T. Payne,Timothy Payne,27,1/10/94,179,73,New Zealand,111473.0,Right,Normal (170-185),
+8943,210862,Ricardo Ferreira,Ricardo José Araújo Ferreira,28,11/25/92,190,82,Canada,111455.0,Right,Lean (185+),Injury Prone
+9015,217758,C. Washington,Conor James Washington,29,5/18/92,178,85,Northern Ireland,110081.0,Right,Stocky (170-185),
+9033,220677,J. Morrell,Joseff John Morrell,24,1/3/97,168,64,Wales,1367.0,Right,Normal (170-),Playmaker (AI)
+9041,221486,D. O'Shaughnessy,Daniel Michael O'Shaughnessy,26,9/14/94,190,84,Finland,1334.0,Left,Lean (185+),"Injury Prone, Giant Throw-in"
+9052,221854,Wu Xinghan,吴兴涵,28,2/24/93,183,70,China PR,1413.0,Right,Lean (170-185),Team Player
+9053,221857,Jin Jingdao,金敬道,28,11/18/92,170,66,China PR,1413.0,Right,Lean (170-),
+9097,224690,Li Ang,李昂,27,9/15/93,188,88,China PR,1413.0,Left,Stocky (185+),
+9138,227847,M. James,Manjrekar James,27,8/5/93,193,81,Canada,111455.0,Right,Normal (185+),
+9142,228017,Zhang Yuning,张玉宁,24,1/5/97,185,80,China PR,1413.0,Right,Lean (185+),Long Shot Taker (AI)
+9232,232669,S. Singh,Sarpreet Singh,22,2/20/99,175,65,New Zealand,111473.0,Left,Lean (170-185),"Flair, Long Shot Taker (AI), Playmaker (AI), Technical Dribbler (AI)"
+9270,234298,N. Alho,Nikolai Aleksanteri Alho,28,3/12/93,172,72,Finland,1334.0,Right,Normal (170-185),Technical Dribbler (AI)
+9384,239377,S. Schön,Szabolcs Schön,20,9/27/00,173,63,Hungary,1886.0,Left,Normal (170-185),
+9426,240925,L. Millar,Liam Alan Millar,21,9/27/99,185,79,Canada,111455.0,Right,Lean (185+),Speed Dribbler (AI)
+9487,243908,D. Ballard,Daniel George Ballard,21,9/22/99,187,85,Northern Ireland,110081.0,Right,Lean (185+),
+9699,257896,N. Patterson,Nathan Patterson,19,10/16/01,178,66,Scotland,1359.0,Right,Lean (170-185),
+9859,184585,Á. Bogdán,Ádám Bogdán,33,9/27/87,194,92,Hungary,1886.0,Right,Normal (185+),Comes For Crosses
+9905,195480,C. McLaughlin,Conor Gerard McLaughlin,29,7/26/91,183,71,Northern Ireland,110081.0,Right,Lean (170-185),
+10405,234291,L. Väisänen,Leo Onni Artturi Väisänen,23,7/23/97,186,80,Finland,1334.0,Right,Lean (185+),
+10443,235860,M. Woud,Michael Cornelis Woud,22,1/16/99,196,85,New Zealand,111473.0,Left,Normal (185+),
+10529,239952,Á. Kecskés,Ákos Kecskés,25,1/4/96,190,75,Hungary,1886.0,Right,Lean (185+),
+10608,243009,D. Cornelius,Derek Cornelius,23,11/25/97,187,86,Canada,111455.0,Left,Normal (185+),"Injury Prone, Power Header"
+10660,244655,G. Whyte,Gavin Whyte,25,1/31/96,175,67,Northern Ireland,110081.0,Right,Lean (170-185),
+10739,248040,A. Rus,Adrián Rus,25,3/18/96,183,76,Romania,1356.0,Right,Normal (170-185),Dives Into Tackles (AI)
+10939,258452,T. Cseri,Tamás Cseri,33,1/15/88,174,76,Hungary,1886.0,Right,Normal (170-185),Leadership
+11080,166851,K. Árnason,Kári Árnason,38,10/13/82,191,82,Iceland,1341.0,Right,Lean (185+),"Long Throw-in, Leadership"
+11095,173752,C. Gunter,Christopher Ross Gunter,31,7/21/89,180,71,Wales,1367.0,Right,Lean (170-185),"Solid Player, Team Player"
+11115,183347,J. Leutwiler,Jayson Leutwiler,32,4/25/89,196,80,Canada,111455.0,Right,Normal (185+),GK Long Throw
+11224,206379,H. Halldórsson,Hannes Þór Halldórsson,37,4/27/84,193,88,Iceland,1341.0,Right,Normal (185+),Cautious With Crosses
+11409,224669,Yin Hongbo,尹鸿博,31,10/30/89,180,72,China PR,1413.0,Left,Lean (170-185),Early Crosser
+11503,231063,C. Lewis,Clayton Rhys Lewis,24,2/12/97,173,72,New Zealand,111473.0,Left,Stocky (170-185),"Finesse Shot, Long Shot Taker (AI)"
+11636,238273,J. Marković,Jovan Marković,20,3/23/01,183,75,Romania,1356.0,Right,Lean (170-185),"Flair, Technical Dribbler (AI)"
+11750,243666,C. McCowatt,Callum William McCowatt,22,4/30/99,180,73,New Zealand,111473.0,Right,Normal (170-185),
+11921,252313,M. Marin,Marius Mihai Marin,22,8/30/98,180,75,Romania,1356.0,Right,Normal (170-185),
+11965,254136,E. Just,Elijah Henry Just,21,5/1/00,174,69,New Zealand,111473.0,Left,Lean (170-185),Technical Dribbler (AI)
+11966,254143,N. Pijnaker,Nando Zen Pijnaker,22,2/25/99,192,88,New Zealand,111473.0,Left,Stocky (185+),
+12063,257794,F. Iacob,Florin Iacob,27,8/16/93,180,84,Romania,1356.0,Right,Normal (170-185),Saves with Feet
+12269,183122,B. Sævarsson,Birkir Már Sævarsson,36,11/11/84,187,74,Iceland,1341.0,Right,Lean (185+),
+12277,186352,T. Smith,Thomas Jefferson Smith,31,3/31/90,188,82,New Zealand,111473.0,Left,Normal (185+),"Leadership, Power Header"
+12610,231954,Xu Xin,徐新,27,4/19/94,179,70,China PR,1413.0,Right,Lean (170-185),
+12621,232446,K. Kairinen,Kasper Kaan Özden Kairinen,22,12/22/98,186,70,Finland,1334.0,Left,Lean (185+),
+12840,243349,D. Levitt,Dylan James Christopher Levitt,20,11/17/00,180,74,Wales,1367.0,Right,Lean (170-185),"Flair, Long Passer (AI), Playmaker (AI)"
+12891,245685,O. Valakari,Onni Johannes Simonpoika Valakari,21,8/18/99,187,82,Finland,1334.0,Left,Lean (185+),
+13273,262113,N. Zalewski,Nicola Zalewski,19,1/23/02,175,75,Poland,1353.0,Right,Normal (170-185),
+13648,231131,J. McGarry,James Robert McGarry,23,4/9/98,180,75,New Zealand,111473.0,Left,Normal (170-185),"Speed Dribbler (AI), Outside Foot Shot"
+13886,245041,Zhu Chenjie,朱辰杰,20,8/23/00,185,78,China PR,1413.0,Right,Stocky (185+),Long Passer (AI)
+13948,248165,A. Rațiu,Andrei Florin Rațiu,23,6/20/98,183,72,Romania,1356.0,Right,Normal (170-185),
+14199,259680,M. Stamenic,Marko Seufatu Nikola Stamenic,19,2/19/02,188,78,New Zealand,111473.0,Right,Normal (185+),"Flair, Technical Dribbler (AI)"
+14466,213094,S. Roux,Storm Roux,28,1/13/93,181,71,New Zealand,111473.0,Right,Lean (170-185),"Injury Prone, Team Player"
+14476,219392,A. Rufer,Alex Arthur Rufer,25,6/12/96,184,75,New Zealand,111473.0,Right,Normal (170-185),"Leadership, Long Passer (AI)"
+14654,241475,P. Soiri,Pyry Henri Hidipo Soiri,26,9/22/94,183,63,Finland,1334.0,Right,Lean (170-185),
+14860,254513,C. Eriksson,Carljohan Daniel Viktor Eriksson,26,4/25/95,191,81,Finland,1334.0,Right,Normal (185+),
