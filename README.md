@@ -50,7 +50,6 @@ I decided to use the Rectified Linear Unit (ReLU) function to train my model. Re
 
 I used Keras to help build my model, along with the two classes: 
     - The Sequential class is a linear stack of neural network layers, where data flows from one layer to the next. This model is what we simulated in the TensorFlow Playground.
-
     - The generalized Dense class allows us to add layers within the neural network.
 
 
