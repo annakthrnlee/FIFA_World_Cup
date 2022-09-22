@@ -2,7 +2,9 @@
 
 ### Overview
 #### My Role:
-    -	X: The member in the X role will decide which technologies will be used for each step of the project. Communicating with my team and assuring which tools would work best for us to use with our project. 
+X: The member in the X role will decide which technologies will be used for each step of the project. 
+Communicating with my team and assuring which tools would work best for us to use with our project. 
+
 ### Rubric For This Week:
 #### Technologies Integrated Throughout Project: X
     -	Which tools are the best fit for your project?
