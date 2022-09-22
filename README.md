@@ -41,7 +41,7 @@ Second dataset: Revised_Players22
 This dataset started with over 50 columns, all of which summarize soccer players from that year who played pro. The goal, however, is to only pay attention to FIFA champion players so I dropped all players who didn't fit that specific qualification. 
 Next, I decided which columns would be most interesting to compare with potential winners. I kept players height, weight, age, nationality, and body type. These categories will be the defining objects of our model when it comes to predicting future winners based on players' characteristics. 
 
-Now that I have cleaned both datasets, I saved them as new csv files so I can merge them and create my machine learning model.
+Now that I have cleaned both datasets, I saved them as new csv files so I can merge them and create my machine learning model. The only problem is they are different sizes and ...
 
 
 - What is the model's accuracy?
