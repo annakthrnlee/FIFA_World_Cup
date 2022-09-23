@@ -48,13 +48,7 @@ I decided to base my model solely on the Revised_International_Matches dataset. 
 
 I decided to use the Rectified Linear Unit (ReLU) function to train my model. ReLu returns a value from 0 to infinity, so any negative input through the activation function is 0. It is the most used activation function in neural networks due to its simplifying output. ReLu works best with complicated models and based on the size of the dataset I found it to be the most appropriate choice. 
 
-I used Keras to help build my model, along with the two classes: 
-The Sequential class is a linear stack of neural network layers, where data flows from one layer to the next. This model is what we simulated in the TensorFlow Playground.
-
-The generalized Dense class allows us to add layers within the neural network.
-
-
-
+I used Keras to help build my model, along with two classes: The Sequential class amd the generalized Dense class. 
 
 
 - What is the model's accuracy?
