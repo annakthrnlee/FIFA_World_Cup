@@ -50,7 +50,13 @@ I decided to use the Rectified Linear Unit (ReLU) function to train my model. Re
 
 I used Keras to help build my model, along with two classes: The Sequential class amd the generalized Dense class. 
 
-
 - What is the model's accuracy?
 
+My model's accuracy score is: 79%
+I plan on messing around with the model next week and seeing if by adding new hidden layers and changing the parameters I could acheive a higher score. This is just a basic model and I would like to add a few more characteristics to better acheive our desired outcomess (WEEK 2 GOALS). 
+
+<img width="718" alt="Screen Shot 2022-09-22 at 8 27 21 PM" src="https://user-images.githubusercontent.com/104043438/191881729-5492c5be-5c71-4e0c-a134-5f347da68d02.png">
+
 - How does this model work?
+
+The model works by determining the likeliness of a home_team winning or losing based on whether they played home or away game. I was curious to see if teams who played in their own country won more often than lost. This would become an interesting finding for predicting who would win the FIFA tournament. Though it's not the only factor that plays a role, it would be cool to see the percentages of wins and losses over the last 22 years based on where the game was held.
