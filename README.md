@@ -30,3 +30,11 @@ I split the data into training and testing sets by first 'importing from sklearn
 <img width="1319" alt="Screen Shot 2022-09-25 at 6 20 16 PM" src="https://user-images.githubusercontent.com/104043438/192172556-1f2c5229-76c5-44c8-9150-5cfdc1123ed2.png">
 
 - Explanation of model choice, including limitations and benefits.
+
+The model I chose was a deep neural networking model using supervised learning with categorical variables. I chose to use a supervised learning model because the algorithm “learns” from the training dataset by iteratively making predictions on the data and adjusting for the correct answer. The model is considered a deep learning network because I incorporated more than one hidden layer, see the above explanation on the advantages of neurons to the hidden layers. 
+
+The reason why I chose to use a neural networking model is that I wasn't sure if our data would have a linear relationship. Players' attributes may not even change the outcome of a game. When it comes to sports predictions building an accurate model is pretty much impossible, if I could predict who would win a sports game based on the teams' players I probably wouldn't be typing this right now; I'd be rich betting in Vegas. Thus, neural networking models with multiple layers can identify nonlinear characteristics of the input data without requiring more input data. 
+
+I chose to work with the ReLu function because it returns a value from 0 to infinity, so any negative input through the activation function is 0. It is the most used activation function in neural networks due to its simplifying output, but it might not be appropriate for simpler models. 
+
+
