@@ -2,17 +2,34 @@
 
 ## Data Cleaning and Analysis
 
-Python will be used to further the data analysis, while Pandas will be used to clean the data and perform an exploratory analysis. 
-SQLAlchemy for importing into Postgres and pulling out of Postgres.
+Each group member will be working with Python to clean/apply/and build our project. Depending on the group member's role, different dependencies will be used to complete the necessary tasks. Everyone will be working with Pandas to perform exploratory analysis. Each member will use Jupyter Notebooks to save their work and publish the results so everyone can apply and view the analysis. 
+
+Resources:
+- Python
+- Pandas 
+- Jupyter Notebook 
+- CSV 
 
 ## Database Storage
 
-Each team member will be using their own branch to store their information. personally using python to store and git clone my work. There is a lot of data that are already in a csv file so just cleaning and narrowing down to what we are trying to answer for our project.  
+The group's data will be stored using SQL. The member in charge of the database will work with SQLAlchemy to import the desired information into Postgres as well as upload the final machine learning model. 
+
+Resources:
+- SQL
+- SQLAlchemy
 
 ## Machine Learning 
 
-Within the project supervised machine learning model because it deals with labeled data and will help with the data we have chosen to use on our project. With Supervised learning, there are two forms, regression, and classification. In the project my team will be using classification because it's best used to predict discrete outcomes and is used to identify the category of new observations based on training data.
+The machine learning model will be built using Jupyter Notebook. The necessary dependencies will be imported into the file such as TensorFlow to create the finalized product. The datasets will be uploaded into Jupyter efficiently using the cleaned CSV files and merged to create the final dataset that will be uploaded into the neural networking model that the member creates. 
+The model is a supervised machine learning model because it deals with labeled data (categorical) which is a perfect fit for the sources we chose. Within a supervised learning model, there are two forms, regression, and classification. Our group is working with classification because classification algorithms can analyze continuous and categorical variables; Classification is best used to predict discrete outcomes and is used to identify the category of new observations based on training data. 
+
+Resources:
+- TensforFlow
+- SkLearn 
 
 ## Dashboard
 
-My team and I will most likely be using Justinmind to built a fully functioning dashboard.
+To create our interactive dashboard we will be working with Tableau because it's simple to use and easy to create fun and meaningful graphs to represent our findings. 
+
+Resources:
+- Tableau 
