@@ -1,5 +1,4 @@
 # FIFA_World_Cup
-<<<<<<< HEAD
 
 ### Rubric For This Week:
 
