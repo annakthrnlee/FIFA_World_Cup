@@ -25,5 +25,11 @@ To address the limitations of the basic neural network, we can implement a more 
 
 <img width="572" alt="Screen Shot 2022-09-25 at 6 13 50 PM" src="https://user-images.githubusercontent.com/104043438/192172218-a9af502b-7c1d-404a-9993-73089ab628a3.png">
 
-I split the data into training and testing sets by 
+I split the data into training and testing sets by first 'importing from sklearn.model_selection import train_test_split'. I set a random_state of 50 so that the results are reproducible, that is every time we run the code, the same instances will be included in the training and testing sets. 
+
+<img width="912" alt="Screen Shot 2022-09-25 at 6 17 44 PM" src="https://user-images.githubusercontent.com/104043438/192172404-2ddc0d77-d718-47c3-8b0d-b77941fb01f4.png">
+
+<img width="786" alt="Screen Shot 2022-09-25 at 6 14 43 PM" src="https://user-images.githubusercontent.com/104043438/192172254-57c731f0-213e-41f8-b851-d5634ccb1e4e.png">
+
+
 - Explanation of model choice, including limitations and benefits.
