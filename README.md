@@ -87,7 +87,28 @@
 #### Complete peer reviews on the code: ⏹
 
 #### Create a draft presentation to share with your class: 🔼
+The presentation tells a story about the project and includes the following:
+- Selected topic
+- Reason topic was selected
+- Description of the source of data
+- Questions the team hopes to answer with the data
+- Description of the data exploration phase of the project
+- Description of the analysis phase of the project
+- Technologies, languages, tools, and algorithms used throughout the project
 
 #### Create a dashboard to display your findings: ⏺ 
+The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
+- Images from the initial analysis
+- Data (images or report) from the machine learning task
+- At least one interactive element
 
 #### Perform a quality assurance check on project deliverables against rubric requirements, and test the code: X 
+Students will be expected to submit the working code for their machine learning model, as well as the following:
+- Description of data preprocessing
+- Description of feature engineering and the feature selection, including the decision-making process
+- Description of how data was split into training and testing sets
+- Explanation of model choice, including limitations and benefits
+- Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+- Description of how they have trained the model thus far, and any additional training that will take place
+- Description of current accuracy score
+- Additionally, the model obviously addresses the question or problem the team is solving.
