@@ -79,3 +79,15 @@
 
 #### Team: 
 - Continue with analysis: add, commit, push, create new branches as needed, and utilize GitHub's built-in tools, such as PRs, to review the work you and your teammates have completed (this is an ongoing process, so keep it up!).
+
+### Ruberic For This Week: WEEK 3
+
+#### Team: Continue to develop and refine the code for your analysis.
+
+#### Complete peer reviews on the code: ⏹
+
+#### Create a draft presentation to share with your class: 🔼
+
+#### Create a dashboard to display your findings: ⏺ 
+
+#### Perform a quality assurance check on project deliverables against rubric requirements, and test the code: X 
