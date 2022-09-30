@@ -37,4 +37,3 @@ The reason why I chose to use a neural networking model is that I wasn't sure if
 
 I chose to work with the ReLu function because it returns a value from 0 to infinity, so any negative input through the activation function is 0. It is the most used activation function in neural networks due to its simplifying output, but it might not be appropriate for simpler models. 
 
-
