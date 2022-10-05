@@ -23,9 +23,11 @@ The group decided to use a neural networking model with categorical variables. A
 
 <img width="500" alt="Screen Shot 2022-10-05 at 12 02 50 PM" src="https://user-images.githubusercontent.com/104043438/194130074-9fafa091-cf57-44c4-8729-f88bd26b9cdd.png">
 
-Using a OneHotEnocder instance I changed the text labels (win, lost, draw) into numerical values. If the game was won for a specific row then that column would be equal to 1 and the column with lose and draw would be replaced with a 0. This helped the model understand the data in a more efficent way. 
+Using an OneHotEnocder instance I changed the text labels (win, lost, draw) into numerical values. If the game was won for a specific row then that column would be equal to 1 and the column with lose and draw would be replaced with a 0. This helped the model understand the data in a more efficient way. 
 
-<img width="672" alt="Screen Shot 2022-10-05 at 12 07 19 PM" src="https://user-images.githubusercontent.com/104043438/194130974-47f283ad-f9f4-4772-98bf-78cc2abfec67.png">
+The features I selected for this model was incorporating three hidden layers and the Rectified Linear Unit (ReLU) function. At first, I had only used two hidden layer models with a high amount of neurons, but the model had trouble understanding the similarities between the variables. Thus, by adding an extra hidden layer and lowering the neuron count for each, the model could better identify nonlinear characteristics of the input data without requiring more input data. 
+
+<img width="1003" alt="Screen Shot 2022-10-05 at 12 13 53 PM" src="https://user-images.githubusercontent.com/104043438/194132255-270f4784-4493-46eb-994e-b0019981fa7b.png">
 
 - Description of how data was split into training and testing sets
 - Explanation of model choice, including limitations and benefits
