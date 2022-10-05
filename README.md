@@ -1,7 +1,5 @@
 # FIFA_World_Cup
 
-## Rubric For This Week: WEEK 3
-
 ### Machine Learning Model: 
 
 #### Perform a quality assurance check on project deliverables against rubric requirements, and test the code: X
@@ -62,4 +60,5 @@ When I first started creating my model, the accuracy score was 100%. I knew this
 <img width="679" alt="Screen Shot 2022-10-05 at 2 02 25 PM" src="https://user-images.githubusercontent.com/104043438/194152232-bf5c2030-c22d-46f3-83dc-84f2d42dac5b.png">
 
 - Summary: 
+
 The model has developed a lot over these last three weeks. Initially, my model started with a basic structure. I had forgotten to incorporate testing points and the dataset I was using had not been cleaned well enough to build an accurate model. Throughout week 2, I made some changes. I cleaned the dataset more and incorporated a testing aspect. The only problem the model faced was a "leaky data" aspect because I had given it the answer. The model wasn't using any of the variables to calculate a trend. The model was simply spitting out the answer provided (win/lose ratio), which explains 100% accuracy score. Finally, I edited the X variables in the model and removed a few more unnecessary columns that were complicating the results. Though the finished model has a low accuracy score, it is higher than I had anticipated. This model can prove that there is a stronger correlation between players' attributes and whether or not a team will win or lose. It will be interesting to use this model to further develop a solid summary and predictions for our final presentation. 
