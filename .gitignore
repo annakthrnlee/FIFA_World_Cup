@@ -5,8 +5,8 @@ config.py
 .DS_Store
 
 # Add folders
-Data Sources/international_matches.csv
-Data Sources/players_22.csv
+Data Sources/.international_matches.csv.icloud
+Data Sources/.players_22.csv.icloud
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
