@@ -32,13 +32,15 @@ The features I selected for this model was incorporating three hidden layers and
 <img width="1003" alt="Screen Shot 2022-10-05 at 12 13 53 PM" src="https://user-images.githubusercontent.com/104043438/194132255-270f4784-4493-46eb-994e-b0019981fa7b.png">
 
 - Description of how data was split into training and testing sets
-Using Scikit-learn's train_test_split method, I split the data into training and testing. 
+
+Using Scikit-learn's train_test_split method, I split the data into training and testing. I incorporated a random state of 50 and a test size of 0.2. After doing so the model split the training and testing data, 1950 training examples and 488 testing examples. See the screenshots below to better understand the process: 
 
 <img width="606" alt="Screen Shot 2022-10-05 at 12 26 11 PM" src="https://user-images.githubusercontent.com/104043438/194134554-a5c563dd-cbd6-4108-8882-2beeedf6a8ae.png">
 
 <img width="713" alt="Screen Shot 2022-10-05 at 12 28 41 PM" src="https://user-images.githubusercontent.com/104043438/194135036-415cd2db-1c1a-4f2e-9f89-814522506fb1.png">
 <img width="399" alt="Screen Shot 2022-10-05 at 12 28 52 PM" src="https://user-images.githubusercontent.com/104043438/194135068-6cfc0fad-8792-463f-b5cd-e17f7adda232.png">
 
+<img width="847" alt="Screen Shot 2022-10-05 at 12 30 53 PM" src="https://user-images.githubusercontent.com/104043438/194135464-8522e958-50f6-4202-b0fd-a1728ed06aa9.png">
 
 - Explanation of model choice, including limitations and benefits
 - Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
