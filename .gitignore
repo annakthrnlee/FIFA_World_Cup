@@ -3,9 +3,13 @@ config.py
 
 # Add in DS_store
 .DS_Store
+"Cleaned Data Sources"/.DS_Store
+"Machine Learning Model"/.DS_Store
 
 # Add folders
 "Data Sources"/
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
