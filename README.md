@@ -3,7 +3,7 @@
 ## Rubric For This Week: WEEK 3
 
 ### Machine Learning Model: 
-
+<u>HI YALL</u>
 #### Perform a quality assurance check on project deliverables against rubric requirements, and test the code: X
 Students will be expected to submit the working code for their machine learning model, as well as the following:
 
