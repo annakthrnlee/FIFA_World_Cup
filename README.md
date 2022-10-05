@@ -32,6 +32,16 @@ The features I selected for this model was incorporating three hidden layers and
 <img width="1003" alt="Screen Shot 2022-10-05 at 12 13 53 PM" src="https://user-images.githubusercontent.com/104043438/194132255-270f4784-4493-46eb-994e-b0019981fa7b.png">
 
 - Description of how data was split into training and testing sets
+Using Scikit-learn's train_test_split method, I split the data into training and testing. 
+
+<img width="606" alt="Screen Shot 2022-10-05 at 12 26 11 PM" src="https://user-images.githubusercontent.com/104043438/194134554-a5c563dd-cbd6-4108-8882-2beeedf6a8ae.png">
+<img width="489" alt="Screen Shot 2022-10-05 at 12 24 52 PM" src="https://user-images.githubusercontent.com/104043438/194134341-71477e10-e957-480f-8102-056b9a7508c4.png">
+
+Using Keras to train and fit the model, I used the fit method and provide the x training values and y training values, as well as the number of epochs. 
+
+<img width="713" alt="Screen Shot 2022-10-05 at 12 28 41 PM" src="https://user-images.githubusercontent.com/104043438/194135036-415cd2db-1c1a-4f2e-9f89-814522506fb1.png">
+<img width="399" alt="Screen Shot 2022-10-05 at 12 28 52 PM" src="https://user-images.githubusercontent.com/104043438/194135068-6cfc0fad-8792-463f-b5cd-e17f7adda232.png">
+
 
 - Explanation of model choice, including limitations and benefits
 - Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
