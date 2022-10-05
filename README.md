@@ -19,6 +19,14 @@ Then, I merged both of these revised datasets into one final source to upload in
 <img width="927" alt="Screen Shot 2022-10-05 at 11 59 04 AM" src="https://user-images.githubusercontent.com/104043438/194129389-65887fe8-7b8d-46cc-b7a0-6409d0581eb7.png">
 
 - Description of feature engineering and the feature selection, including the decision-making process
+The group decided to use a neural networking model with categorical variables. After cleaning the dataset and uploading the source, I imported the necessary dependencies. I also found it to be helpful for summary purposes to do a value count on the attributes we were testing (age, weight, height) just to see how many values were being introduced to the model. After reviewing the columns, the categorical variables were set as followed: 
+
+<img width="500" alt="Screen Shot 2022-10-05 at 12 02 50 PM" src="https://user-images.githubusercontent.com/104043438/194130074-9fafa091-cf57-44c4-8729-f88bd26b9cdd.png">
+
+Using a OneHotEnocder instance I changed the text labels (win, lost, draw) into numerical values. If the game was won for a specific row then that column would be equal to 1 and the column with lose and draw would be replaced with a 0. This helped the model understand the data in a more efficent way. 
+
+<img width="672" alt="Screen Shot 2022-10-05 at 12 07 19 PM" src="https://user-images.githubusercontent.com/104043438/194130974-47f283ad-f9f4-4772-98bf-78cc2abfec67.png">
+
 - Description of how data was split into training and testing sets
 - Explanation of model choice, including limitations and benefits
 - Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
