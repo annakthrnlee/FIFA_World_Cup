@@ -17,7 +17,7 @@
 #### Resources: 
 
 
-#### Data Sources / Data Cleansing: 
+#### Data Cleansing: 
 
 
 #### Database Storage:
