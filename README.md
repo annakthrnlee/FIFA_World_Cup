@@ -1,6 +1,6 @@
 # FIFA World Cup
 
-#### Reminder: This is NOT the final README, it is a working draft.
+#### Introduction: 
 
 - **Selected topic:** 2022 FIFA World Cup Predictions
 
@@ -14,73 +14,19 @@
 
 - **Dashboard:** TBD
 
+#### Resources: 
 
 
-### Rubric For This Week: WEEK 1
-#### GitHub Repository ⏹
-- Create a GitHub Repo and share with fellow group members.
-- At least one branch for each team member.
-- Each team member has at least four commits for the duration of the first segment. 
-#### Machine Learning Model: 🔼
-- Which model did you choose and why?
-- How are you training your model?
-- What is the model's accuracy?
-- How does this model work?
-#### Database Integration: ⏺
-- Create a mockup database and a document pointing out how it is integrated into your database and how it works with the code.
-#### Technologies Integrated Throughout Project: X 
-- Which tools are the best fit for your project? 
-- What technologies will be used for each section? 
-- How will the dashboard be built?
+#### Data Sources / Data Cleansing: 
 
-### Rubric For This Week: WEEK 2
-#### GitHub Repository ⏹
-- All code in the main branch is production-ready.
-- All code necessary to perform exploratory analysis.
-- Some code necessary to complete the machine learning portion of project.
-- Everyones branches have a summarized READ.ME of this weeks steps (plus 4 commits).
-#### Machine Learning Model: 🔼
-- Description of preliminary data preprocessing.
-- Description of preliminary feature engineering and preliminary feature selection, including the decision-making process.
-- Description of how data was split into training and testing sets.
-- Explanation of model choice, including limitations and benefits.
-#### Database Integration: ⏺
-- Database stores static data for use during the project.
-- Database interfaces with the project in some format (e.g., scraping updates the database).
-- Includes at least two tables (or collections, if using MongoDB).
-- Includes at least one join using the database language (not including any joins in Pandas).
-- Includes at least one connection string (using SQLAlchemy or PyMongo).
-#### Dashboard: X 
-- Storyboard on a Google Slide(s).
-- Description of the tool(s) that will be used to create the final dashboard.
-- Description of interactive element(s).
-#### Team: 
-- Continue with analysis: add, commit, push, create new branches as needed, and utilize GitHub's built-in tools, such as PRs, to review the work you and your teammates have completed (this is an ongoing process, so keep it up!).
 
-### Ruberic For This Week: WEEK 3
-#### Team: Continue to develop and refine the code for your analysis.
-#### Complete peer reviews on the code: ⏹
-#### Create a draft presentation to share with your class: 🔼
-The presentation tells a story about the project and includes the following:
-- Selected topic
-- Reason topic was selected
-- Description of the source of data
-- Questions the team hopes to answer with the data
-- Description of the data exploration phase of the project
-- Description of the analysis phase of the project
-- Technologies, languages, tools, and algorithms used throughout the project
-#### Create a dashboard to display your findings: ⏺ 
-The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
-- Images from the initial analysis
-- Data (images or report) from the machine learning task
-- At least one interactive element
-#### Perform a quality assurance check on project deliverables against rubric requirements, and test the code: X 
-Students will be expected to submit the working code for their machine learning model, as well as the following:
-- Description of data preprocessing
-- Description of feature engineering and the feature selection, including the decision-making process
-- Description of how data was split into training and testing sets
-- Explanation of model choice, including limitations and benefits
-- Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
-- Description of how they have trained the model thus far, and any additional training that will take place
-- Description of current accuracy score
-- Additionally, the model obviously addresses the question or problem the team is solving.
+#### Database Storage:
+
+
+#### Machine Model:
+
+
+#### Visualizations:
+
+
+#### Findings:
