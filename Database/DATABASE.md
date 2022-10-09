@@ -1,6 +1,6 @@
 # Database Segment Week 2
 
-## DELIVERABLE 2
+## DATABASE
 **Database Host:** Postgres
 **Database Engine:** SQLAlchemy
 **Python Tool:** Jupyter Notebook
