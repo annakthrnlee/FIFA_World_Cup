@@ -110,4 +110,6 @@ Even though there are differences when it comes to the player's attributes (heig
 
 <img width="1464" alt="Screen Shot 2022-10-11 at 12 21 25 PM" src="https://user-images.githubusercontent.com/104043438/195169636-92d75db2-4df9-453d-9812-b451d6b729c0.png">
 
+### STEPH: add your summary about the dashboard here. Talk about the interactive feature (how to use/why it's important for findings) etc. 
+
 ## Findings:
