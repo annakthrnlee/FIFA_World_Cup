@@ -44,8 +44,6 @@ The codes are also listed under 'Cleaned Data Codes' so viewers can preview the 
 **Python Tool:** Jupyter Notebook
 **Languages:** SQL, Python
 
-**Deliverable 2:**
-
 1. Our ERD was created based on our cleaned and finalized datasets. We have two datasets to help us start our analysis. We created an Enterprise Relational Diagram below to determine a draft of what our database should look like, and how tables are connected with primary and foreign keys. The database is storing the static data and we have at least 2 tables.
 
 ![erd_snapshot](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess2/Database_Resources/erd_snapshot.png)
