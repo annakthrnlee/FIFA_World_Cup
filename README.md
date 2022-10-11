@@ -16,7 +16,7 @@
 
 #### Resources: 
 
-## DATABASE
+## DATABASE / DATABASE STORAGE
 **Database Host:** Postgres
 **Database Engine:** SQLAlchemy
 **Python Tool:** Jupyter Notebook
@@ -64,12 +64,19 @@ After removing the unnecessary columns, we were left with a short and simple dat
 
 <img width="833" alt="Screen Shot 2022-10-11 at 11 41 25 AM" src="https://user-images.githubusercontent.com/104043438/195162074-07f981f2-6bd1-4919-8b03-992919fc1507.png">
 
-## Database Storage:
-
 
 ## Machine Model:
-Based on the structure of 
+Based on the structure of our final dataset, the group found that a supervised machine model would be the most efficient to predict our final results. Supervised learning is a great option when it comes to predictions, since our goal as a team was to create a model that allows users to predict the 2022 FIFA World Cup winner based on past information, supervised learning made the most sense. Supervised learning takes two forms, regression, and classification. The group chose to work with classification because it's best used to predict discrete outcomes and to identify the category of new observations based on training data. 
 
+After determining which type of model we would apply to our dataset, we then decided to use deep neural networking. The reason why we chose to use a neural networking model was that we weren't sure if our data would have a linear relationship. Players' attributes may not even change the outcome of a game. When it comes to sports predictions building an accurate model is pretty much impossible, sure you can base predictions on different statistics but sports are very unpredictable. Thus, neural networking models with multiple layers can identify nonlinear characteristics of the input data without requiring more input data.
+
+When it comes to neural networking models, there are endless ways to customize your model. The group chose to incorporate three hidden layers because by adding an extra layer and lowering the neuron count for each, the model could better identify nonlinear characteristics of the data without requiring more input data. The group also decided to focus on the ReLu function (Rectified Linear Unit) because it's the most used activation function in neural networks due to its simplifying output. The following image shows the code used to build the deep neural net: 
+
+<img width="993" alt="Screen Shot 2022-10-11 at 12 13 06 PM" src="https://user-images.githubusercontent.com/104043438/195168027-f4d3e777-f603-4f09-a101-fec82dff462e.png">
+
+The final model had an accuracy score of 60%. Though this isn't very high when it comes to sports betting the group was surprised to see such results. These results can tell us that the four players' attributes we chose do play a role in whether a team will win or lose.  
+
+<img width="700" alt="Screen Shot 2022-10-11 at 11 50 50 AM" src="https://user-images.githubusercontent.com/104043438/195163874-4fc98f4e-5ed3-47db-a0f3-17dcf7176bbb.png">
 
 #### Visualizations:
 
