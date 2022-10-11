@@ -78,7 +78,18 @@ The final model had an accuracy score of 60%. Though this isn't very high when i
 
 <img width="700" alt="Screen Shot 2022-10-11 at 11 50 50 AM" src="https://user-images.githubusercontent.com/104043438/195163874-4fc98f4e-5ed3-47db-a0f3-17dcf7176bbb.png">
 
-#### Visualizations:
+## Visualizations:
+The group thought it would be most appropriate for our audience if we first created three visualizations that showed the differences between each country and the players' attributes. You can view our dashboard by clicking the link above. 
 
+Here are the findings when we compared each country with age, weight, and height: 
 
-#### Findings:
+- Brazil has the lowest average height for their 2022 players / Denmark has the highest average height for their players.
+- England has the lowest average age for their 2022 players / Turkey and Iceland are tied for having the highest average age for their players.
+- Argentina has the lowest average weight for their 2022 players / Denmark has the highest average weight for their players.
+One factor to acknowledge:
+
+Even though there are differences when it comes to the player's attributes (height/weight/age), we don't see very much change when you compare birth year (dob) with height and weight. The only differences occur when you compare the same attributes with the player's country.
+
+<img width="1464" alt="Screen Shot 2022-10-11 at 12 21 25 PM" src="https://user-images.githubusercontent.com/104043438/195169636-92d75db2-4df9-453d-9812-b451d6b729c0.png">
+
+## Findings:
