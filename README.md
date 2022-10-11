@@ -12,7 +12,7 @@
 
 - **Presentation Draft:** [Found Here](https://docs.google.com/presentation/d/1o660yOfDEY-43fBcihLkfAt6VvQGWRWwPyAxlKHCJGg/edit#slide=id.p)
 
-- **Dashboard:** https://public.tableau.com/views/FIFA_World_Cup_16644268958490/FIFA_World_Cup?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+- **Dashboard:** [Found Here](https://public.tableau.com/views/FIFA_World_Cup_16644268958490/FIFA_World_Cup?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Resources: 
 
@@ -46,7 +46,6 @@ File found **[here](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess2/lo
 
 File found **[here.](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess2/upload_data_from_postgres.ipynb)**
 
-
 ## Data Cleansing: 
 Initially, we started with two big datasets (International_Matches.csv and Players22.csv). Each dataset contained over 40 columns and a bunch of unnecessary variables. 
 
@@ -63,7 +62,6 @@ After removing the unnecessary columns, we were left with a short and simple dat
 ****Both_Sources_CleanedCombined.csv:**** After cleaning both datasets, we merged them into one final source to apply to the machine-learning model. The final source was clean and concise, containing only 10 columns which would later be dropped down to 6 after applying it to the model. The final dataset looks like the following: 
 
 <img width="833" alt="Screen Shot 2022-10-11 at 11 41 25 AM" src="https://user-images.githubusercontent.com/104043438/195162074-07f981f2-6bd1-4919-8b03-992919fc1507.png">
-
 
 ## Machine Model:
 Based on the structure of our final dataset, the group found that a supervised machine model would be the most efficient to predict our final results. Supervised learning is a great option when it comes to predictions, since our goal as a team was to create a model that allows users to predict the 2022 FIFA World Cup winner based on past information, supervised learning made the most sense. Supervised learning takes two forms, regression, and classification. The group chose to work with classification because it's best used to predict discrete outcomes and to identify the category of new observations based on training data. 
@@ -91,7 +89,5 @@ One factor to acknowledge:
 Even though there are differences when it comes to the player's attributes (height/weight/age), we don't see very much change when you compare birth year (dob) with height and weight. The only differences occur when you compare the same attributes with the player's country.
 
 <img width="1464" alt="Screen Shot 2022-10-11 at 12 21 25 PM" src="https://user-images.githubusercontent.com/104043438/195169636-92d75db2-4df9-453d-9812-b451d6b729c0.png">
-
-### Dashboard: 
 
 ## Findings:
