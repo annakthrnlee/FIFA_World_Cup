@@ -12,7 +12,7 @@
 
 - **Presentation Draft:** [Found Here](https://docs.google.com/presentation/d/1o660yOfDEY-43fBcihLkfAt6VvQGWRWwPyAxlKHCJGg/edit#slide=id.p)
 
-- **Dashboard:** TBD
+- **Dashboard:** (https://public.tableau.com/views/FIFA_World_Cup_16644268958490/FIFA_World_Cup?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Resources: 
 
