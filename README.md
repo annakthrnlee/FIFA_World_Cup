@@ -15,17 +15,17 @@
 - **Dashboard:** [Found Here](https://public.tableau.com/views/FIFA_World_Cup_16644268958490/FIFA_World_Cup?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Resources: 
-**** Original Datasets **** 
+****Original Datasets**** 
 - International_Matches.csv
 - Players22.csv
 
-**** Cleaned Datasets ****
+****Cleaned Datasets****
 The codes are also listed under 'Cleaned Data Codes' so viewers can preview the cleansing process 
 - Revised_International_Matches.csv
 - Revised_Players22.csv
 - Both_Sources_CleanedCombined.csv
 
-**** Technology Used ****
+****Technology Used****
 - Python
 - Jupyter Notebook / Google Colab
 - CSV
