@@ -1,6 +1,6 @@
 # FIFA World Cup
 
-#### Introduction: 
+## Introduction: 
 
 - **Selected topic:** 2022 FIFA World Cup Predictions
 
@@ -14,7 +14,28 @@
 
 - **Dashboard:** [Found Here](https://public.tableau.com/views/FIFA_World_Cup_16644268958490/FIFA_World_Cup?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-#### Resources: 
+## Resources: 
+**** Original Datasets **** 
+- International_Matches.csv
+- Players22.csv
+
+**** Cleaned Datasets ****
+The codes are also listed under 'Cleaned Data Codes' so viewers can preview the cleansing process 
+- Revised_International_Matches.csv
+- Revised_Players22.csv
+- Both_Sources_CleanedCombined.csv
+
+**** Technology Used ****
+- Python
+- Jupyter Notebook / Google Colab
+- CSV
+- SQLAlchemy 
+- Postgres
+- Tableau
+- Google Powerpoint
+- Git
+- Tensorflow
+- Sklearn
 
 ## DATABASE / DATABASE STORAGE
 **Database Host:** Postgres
