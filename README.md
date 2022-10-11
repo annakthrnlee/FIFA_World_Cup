@@ -60,10 +60,15 @@ Initially, we started with two big datasets (International_Matches.csv and Playe
 
 After removing the unnecessary columns, we were left with a short and simple dataset. The updated dataset only focused on four different players' attributes (weight, height, age, and preferred foot). Next, the group removed any 'NaN' variables listed throughout the dataset since some players didn't have these variables listed. Empty variables could scew the machine model's findings so it was important to remove any variables that could complicate our results/accuracy score. 
 
-#### Database Storage:
+****Both_Sources_CleanedCombined.csv:**** After cleaning both datasets, we merged them into one final source to apply to the machine-learning model. The final source was clean and concise, containing only 10 columns which would later be dropped down to 6 after applying it to the model. The final dataset looks like the following: 
+
+<img width="833" alt="Screen Shot 2022-10-11 at 11 41 25 AM" src="https://user-images.githubusercontent.com/104043438/195162074-07f981f2-6bd1-4919-8b03-992919fc1507.png">
+
+## Database Storage:
 
 
-#### Machine Model:
+## Machine Model:
+Based on the structure of 
 
 
 #### Visualizations:
