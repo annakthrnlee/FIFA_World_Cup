@@ -47,8 +47,18 @@ File found **[here](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess2/lo
 File found **[here.](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess2/upload_data_from_postgres.ipynb)**
 
 
-#### Data Cleansing: 
+## Data Cleansing: 
+Initially, we started with two big datasets (International_Matches.csv and Players22.csv). Each dataset contained over 40 columns and a bunch of unnecessary variables. 
 
+****International_Matches.csv:**** For this dataset, the group first checked all of the datatypes and then, decided which columns would be unnecessary for our final results. After dropping a significant amount of columns, we also changed the timeframe column 'date'. This dataset initially listed all of the international matches dating back to the 1930s (the first FIFA World Cup), for simplicity we decided to only keep the matches played throughout 2022 (2000/01/01 - 2022/08/22) until the last dated match posted. 
+
+<img width="666" alt="Screen Shot 2022-10-11 at 11 26 20 AM" src="https://user-images.githubusercontent.com/104043438/195159192-78a249d4-b227-45ae-8de0-3065b9e7141c.png">
+
+****Players22.csv:**** This dataset was much larger compared to the first one, containing around 50 columns. The group realized that to create an accurate machine-learning model, we would have to remove most columns and determine which variables would be most important for our findings. The process started the same as before, we removed all unnecessary columns and variables. 
+
+<img width="2142" alt="Screen Shot 2022-10-11 at 11 30 09 AM" src="https://user-images.githubusercontent.com/104043438/195159923-e2fa5a67-c1ba-40ae-9ef5-53c800cf9c37.png">
+
+After removing the unnecessary columns, we were left with a short and simple dataset. The updated dataset only focused on four different players' attributes (weight, height, age, and preferred foot). Next, the group removed any 'NaN' variables listed throughout the dataset since some players didn't have these variables listed. Empty variables could scew the machine model's findings so it was important to remove any variables that could complicate our results/accuracy score. 
 
 #### Database Storage:
 
