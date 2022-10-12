@@ -26,7 +26,7 @@ File found **[here](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess2/lo
 
 ![join_sql](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess2/Database_Resources/sql_join.png)
 
-6. The data is connected to the machine learning module through a Jupyter Notebook using Python and SQLAlchemy. We used the pd.read_sql_query function and pull datasets into dataframes for processing.
+6. The data is connected to the machine learning module through a Jupyter Notebook using Python and SQLAlchemy. We used the pd.read_sql_query function and pull datasets into dataframes for processing .
 
 File found **[here.](https://github.com/annakthrnlee/FIFA_World_Cup/blob/bess2/upload_data_from_postgres.ipynb)**
 
