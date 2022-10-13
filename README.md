@@ -110,6 +110,6 @@ Even though there are differences when it comes to the player's attributes (heig
 
 <img width="1464" alt="Screen Shot 2022-10-11 at 12 21 25 PM" src="https://user-images.githubusercontent.com/104043438/195169636-92d75db2-4df9-453d-9812-b451d6b729c0.png">
 
-### STEPH: add your summary about the dashboard here. Talk about the interactive feature (how to use/why it's important for findings) etc. 
+### For the dashboard you are able to interact with seeing each countries Draw, Lose, and Wins. You can compare which countries have had the most wins or losses. You can also interact with the weight by scrolling within the bar and compare their weights. These attributes all play a role in the world of soccer and you can check for yourself in the data provided to see the different results for each attributes.
 
 ## Findings:
