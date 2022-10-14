@@ -10,7 +10,7 @@
 
 - **Questions we hope to answer with the data:** Using our knowldge of machine learning and data analysis, can we create a model that allows users to predict the 2022 FIFA World Cup winner based on past information and players characteristics. 
 
-- **Presentation Draft:** [Found Here](https://docs.google.com/presentation/d/1o660yOfDEY-43fBcihLkfAt6VvQGWRWwPyAxlKHCJGg/edit#slide=id.p)
+- **Presentation:** [Found Here](https://docs.google.com/presentation/d/1o660yOfDEY-43fBcihLkfAt6VvQGWRWwPyAxlKHCJGg/edit#slide=id.p)
 
 - **Dashbaord1:** [Found Here](https://public.tableau.com/authoring/Soccer_16651725812850/AgeVSCountry#1)
 - **Dashboard2:** [Found Here](https://public.tableau.com/views/FIFA_World_Cup_16644268958490/FIFA_World_Cup?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
